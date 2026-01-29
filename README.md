@@ -117,7 +117,8 @@ const asilbek = {
 </div>
 
 <br/>
-### 💭 Developer Wisdom
+<div align="center">
+💭 Developer Wisdom
 
 <p><i>"First, solve the problem. Then, write the code." - John Johnson</i></p>
 <p><i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i></p>
