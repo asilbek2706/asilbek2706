@@ -16,21 +16,19 @@ def fetch_stats():
     total_stars = sum(repo['stargazers_count'] for repo in repos)
     repo_count = len(repos)
     
-    stats_text = f"""
-> **Status:** `Analysis Complete`
+    stats_text = f"""> **Status:** `Analysis Complete`
 > 🚀 **Total Stars:** `{total_stars}`
 > 🛠 **Public Projects:** `{repo_count}`
-> 📅 **Last Scan:** `{datetime.now().strftime('%Y-%m-%d %H:%M')}`
-"""
+> 📅 **Last Scan:** `{datetime.now().strftime('%Y-%m-%d %H:%M')}`"""
     return stats_text
 
 def update_readme(new_stats):
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
     
-    # README ichidagi va orasini yangilaydi
-    pattern = r".*"
-    replacement = f"\n{new_stats}\n"
+    # README ichidagi <!-- STATS:START --> va <!-- STATS:END --> orasini yangilaydi
+    pattern = r"<!-- STATS:START -->.*?<!-- STATS:END -->"
+    replacement = f"<!-- STATS:START -->\n{new_stats}\n<!-- STATS:END -->"
     updated_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
     
     with open("README.md", "w", encoding="utf-8") as f:
