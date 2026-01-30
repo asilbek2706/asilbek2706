@@ -28,9 +28,9 @@ def update_readme(new_stats):
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
     
-    # README ichidagi va orasini yangilaydi
-    pattern = r".*"
-    replacement = f"\n{new_stats}\n"
+    # README ichidagi <!-- STATS:START --> va <!-- STATS:END --> orasini yangilaydi
+    pattern = r"<!-- STATS:START -->.*?<!-- STATS:END -->"
+    replacement = f"<!-- STATS:START -->\n{new_stats}\n<!-- STATS:END -->"
     updated_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
     
     with open("README.md", "w", encoding="utf-8") as f:
