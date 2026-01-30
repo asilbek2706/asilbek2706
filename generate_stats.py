@@ -16,12 +16,10 @@ def fetch_stats():
     total_stars = sum(repo['stargazers_count'] for repo in repos)
     repo_count = len(repos)
     
-    stats_text = f"""
-> **Status:** `Analysis Complete`
+    stats_text = f"""> **Status:** `Analysis Complete`
 > 🚀 **Total Stars:** `{total_stars}`
 > 🛠 **Public Projects:** `{repo_count}`
-> 📅 **Last Scan:** `{datetime.now().strftime('%Y-%m-%d %H:%M')}`
-"""
+> 📅 **Last Scan:** `{datetime.now().strftime('%Y-%m-%d %H:%M')}`"""
     return stats_text
 
 def update_readme(new_stats):
