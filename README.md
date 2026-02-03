@@ -83,9 +83,9 @@ const asilbek = {
 | Project | Tech Stack | Live Demo |
 |---------|-----------|-----------|
 | ✨ **Interactive Portfolio** | React • TypeScript • SASS | [View →](https://asilbek2706-github-io.vercel.app/) |
-| 📚 **Books Library** | JavaScript • OOP • DOM | [View →](https://asilbek2706.github.io/Books-Library-JS) |
 | 🎮 **Tic-Tac-Toe** | JavaScript • SASS • Game Logic | [View →](https://asilbek2706.github.io/tic-tac-toe/) |
 | 🛒 **Smart Shop** | TypeScript • SASS • DOM | [View →](https://asilbek2706.github.io/E-Commerce-ts-app/) |
+| 📖 **Quron** | React • SASS • Typescript | [View →](https://quran-rosy-nine.vercel.app/) |
 
 </div>
 
