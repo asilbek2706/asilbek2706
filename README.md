@@ -66,13 +66,48 @@ const asilbek = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asilbek2706&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e40af&icon_color=1e40af&text_color=ffffff&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asilbek2706&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e40af&text_color=ffffff&langs_count=8" alt="Top Languages" />
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Asilbek2706&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e40af&icon_color=1e40af&text_color=ffffff&count_private=true&rank_icon=github&cache_seconds=1800&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=Asilbek2706&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e40af&icon_color=1e40af&text_color=ffffff&count_private=true&rank_icon=github&cache_seconds=1800&include_all_commits=true" alt="GitHub Stats" />
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Asilbek2706&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e40af&text_color=ffffff&langs_count=8&cache_seconds=1800&hide=Jupyter%20Notebook">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asilbek2706&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e40af&text_color=ffffff&langs_count=8&cache_seconds=1800&hide=Jupyter%20Notebook" alt="Top Languages" />
+  </picture>
+  
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asilbek2706&theme=tokyonight&hide_border=true&background=0d1117&ring=1e40af&fire=1e40af&currStreakLabel=1e40af" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asilbek2706&theme=tokyonight&hide_border=true&background=0d1117&ring=1e40af&fire=1e40af&currStreakLabel=1e40af&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
+
+<!-- STATS:START -->
+> **Status:** `Analysis Complete`
+> 🚀 **Total Stars:** `213`
+> 🛠 **Public Projects:** `30`
+> 📅 **Last Scan:** `2026-02-09 01:56`
+<!-- STATS:END -->
+
+<br/>
+
+## 📈 Detailed Metrics
+
+<div align="center">
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asilbek2706&theme=tokyonight)
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asilbek2706&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asilbek2706&theme=tokyonight" alt="Most Commit Language" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asilbek2706&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asilbek2706&theme=tokyonight&utcOffset=5" alt="Productive Time" />
+  
+</div>
+
+<!-- WAKATIME:START -->
+<!-- WAKATIME:END -->
 
 <br/>
 
@@ -101,6 +136,14 @@ const asilbek = {
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Asilbek2706&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+</div>
+
+<br/>
+
+## 🎨 Advanced Metrics
+
+<div align="center">
+  <img src="/metrics.svg" alt="Metrics" width="100%"/>
 </div>
 
 <br/>

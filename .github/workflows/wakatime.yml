@@ -10,7 +10,11 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: "░▒▓█" # Terminal uslubidagi belgilar
+          SHOW_TITLE: true
+          SHOW_TIME: true
+          SHOW_TOTAL: true
