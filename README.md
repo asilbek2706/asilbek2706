@@ -140,6 +140,8 @@ const asilbek = {
 
 <br/>
 
+[![Deployed on DigitalOcean](https://img.shields.io/badge/Deployed%20on-DigitalOcean-blue?style=for-the-badge&logo=digitalocean)](http://SIZNING_SERVER_IP)
+
 ## 🎨 Advanced Metrics
 
 <div align="center">
