@@ -140,8 +140,6 @@ const asilbek = {
 
 <br/>
 
-[![Deployed on DigitalOcean](https://img.shields.io/badge/Deployed%20on-DigitalOcean-blue?style=for-the-badge&logo=digitalocean)](http://SIZNING_SERVER_IP)
-
 ## 🎨 Advanced Metrics
 
 <div align="center">
@@ -163,7 +161,7 @@ const asilbek = {
 
 <br/>
 <div align="center">
-### 💭 Developer Wisdom
+💭 Developer Wisdom
 
 <p><i>"First, solve the problem. Then, write the code." - John Johnson</i></p>
 <p><i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i></p>
