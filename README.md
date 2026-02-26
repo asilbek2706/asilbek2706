@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Asilbek2706">
-    <img src="https://img.shields.io/github/followers/Asilbek2706?label=Followers&style=for-the-badge&logo=github&color=1e40af&labelColor=111111" />
+  <a href="https://github.com/asilbek2706">
+    <img src="https://img.shields.io/github/followers/asilbek2706?label=Followers&style=for-the-badge&logo=github&color=1e40af&labelColor=111111" />
   </a>
   <img src="https://img.shields.io/badge/Status-Actively_Building-1e40af?style=for-the-badge&labelColor=111111&logo=react&logoColor=1e40af" />
-  <a href="https://github.com/Asilbek2706?tab=repositories">
+  <a href="https://github.com/asilbek2706?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-View_All-1e40af?style=for-the-badge&labelColor=111111&logo=github&logoColor=1e40af" />
   </a>
 </p>
@@ -68,19 +68,19 @@ const asilbek = {
 <div align="center">
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Asilbek2706&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e40af&icon_color=1e40af&text_color=ffffff&count_private=true&rank_icon=github&cache_seconds=1800&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=Asilbek2706&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e40af&icon_color=1e40af&text_color=ffffff&count_private=true&rank_icon=github&cache_seconds=1800&include_all_commits=true" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e40af&icon_color=1e40af&text_color=ffffff&count_private=true&rank_icon=github&cache_seconds=1800&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e40af&icon_color=1e40af&text_color=ffffff&count_private=true&rank_icon=github&cache_seconds=1800&include_all_commits=true" alt="GitHub Stats" />
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Asilbek2706&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e40af&text_color=ffffff&langs_count=8&cache_seconds=1800&hide=Jupyter%20Notebook">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asilbek2706&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e40af&text_color=ffffff&langs_count=8&cache_seconds=1800&hide=Jupyter%20Notebook" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=asilbek2706&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e40af&text_color=ffffff&langs_count=8&cache_seconds=1800&hide=Jupyter%20Notebook">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilbek2706&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e40af&text_color=ffffff&langs_count=8&cache_seconds=1800&hide=Jupyter%20Notebook" alt="Top Languages" />
   </picture>
   
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asilbek2706&theme=tokyonight&hide_border=true&background=0d1117&ring=1e40af&fire=1e40af&currStreakLabel=1e40af&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asilbek2706&theme=tokyonight&hide_border=true&background=0d1117&ring=1e40af&fire=1e40af&currStreakLabel=1e40af&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <!-- STATS:START -->
@@ -96,13 +96,13 @@ const asilbek = {
 
 <div align="center">
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asilbek2706&theme=tokyonight)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asilbek2706&theme=tokyonight)
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asilbek2706&theme=tokyonight" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asilbek2706&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asilbek2706&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asilbek2706&theme=tokyonight" alt="Most Commit Language" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asilbek2706&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asilbek2706&theme=tokyonight&utcOffset=5" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asilbek2706&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asilbek2706&theme=tokyonight&utcOffset=5" alt="Productive Time" />
   
 </div>
 
@@ -117,7 +117,7 @@ const asilbek = {
 
 | Project | Tech Stack | Live Demo |
 |---------|-----------|-----------|
-| ✨ **Interactive Portfolio** | React • TypeScript • SASS • Bootstrap | [View →](https://github.com/Asilbek2706/asilbek.dev) |
+| ✨ **Interactive Portfolio** | React • TypeScript • SASS • Bootstrap | [View →](https://github.com/asilbek2706/asilbek.dev) |
 | 🎮 **Tic-Tac-Toe** | JavaScript • SASS • Game Logic | [View →](https://asilbek2706.github.io/tic-tac-toe/) |
 | 🛒 **Smart Shop** | TypeScript • SASS • DOM | [View →](https://asilbek2706.github.io/E-Commerce-ts-app/) |
 | 📖 **Quron** | React • SASS • Typescript | [View →](https://quran-rosy-nine.vercel.app/) |
@@ -129,13 +129,13 @@ const asilbek = {
 ## 📈 Activity & Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asilbek2706&bg_color=0d1117&color=1e40af&line=1e40af&point=ffffff&area=true&area_color=1e40af&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asilbek2706&bg_color=0d1117&color=1e40af&line=1e40af&point=ffffff&area=true&area_color=1e40af&hide_border=true" alt="Activity Graph" />
 </div>
 
-  ![Snake animation](https://raw.githubusercontent.com/Asilbek2706/Asilbek2706/output/github-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/asilbek2706/asilbek2706/output/github-snake-dark.svg)
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Asilbek2706&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=asilbek2706&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 </div>
 
 <br/>
