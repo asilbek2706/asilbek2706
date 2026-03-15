@@ -128,6 +128,9 @@ const asilbek = {
 
 ## 📈 Activity & Contributions
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asilbek2706&bg_color=0d1117&color=1e40af&line=1e40af&point=ffffff&area=true&area_color=1e40af&hide_border=true" alt="Activity Graph" />
 </div>
