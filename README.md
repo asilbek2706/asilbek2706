@@ -129,11 +129,11 @@ const asilbek = {
 ## 📈 Activity & Contributions
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/asilbek2706/Dynamic-landing-page/pull/1) in [asilbek2706/Dynamic-landing-page](https://github.com/asilbek2706/Dynamic-landing-page)
-2. ❗ Opened issue [#1](https://github.com/mehrigiyo756/video-audio2-html/issues/1) in [mehrigiyo756/video-audio2-html](https://github.com/mehrigiyo756/video-audio2-html)
-3. 🎉 Merged PR [#22](https://github.com/asilbek2706/ai-writer/pull/22) in [asilbek2706/ai-writer](https://github.com/asilbek2706/ai-writer)
-4. 💪 Opened PR [#22](https://github.com/asilbek2706/ai-writer/pull/22) in [asilbek2706/ai-writer](https://github.com/asilbek2706/ai-writer)
-5. 🎉 Merged PR [#7](https://github.com/asilbek2706/Asadback-portfolio/pull/7) in [asilbek2706/Asadback-portfolio](https://github.com/asilbek2706/Asadback-portfolio)
+1. 🎉 Merged PR [#3](https://github.com/asilbek2706/Sammi-lessons-javascript/pull/3) in [asilbek2706/Sammi-lessons-javascript](https://github.com/asilbek2706/Sammi-lessons-javascript)
+2. 💪 Opened PR [#3](https://github.com/asilbek2706/Sammi-lessons-javascript/pull/3) in [asilbek2706/Sammi-lessons-javascript](https://github.com/asilbek2706/Sammi-lessons-javascript)
+3. ❌ Closed PR [#1](https://github.com/asilbek2706/Dynamic-landing-page/pull/1) in [asilbek2706/Dynamic-landing-page](https://github.com/asilbek2706/Dynamic-landing-page)
+4. ❗ Opened issue [#1](https://github.com/mehrigiyo756/video-audio2-html/issues/1) in [mehrigiyo756/video-audio2-html](https://github.com/mehrigiyo756/video-audio2-html)
+5. 🎉 Merged PR [#22](https://github.com/asilbek2706/ai-writer/pull/22) in [asilbek2706/ai-writer](https://github.com/asilbek2706/ai-writer)
 <!--END_SECTION:activity-->
 
 <div align="center">
