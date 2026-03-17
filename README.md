@@ -68,8 +68,8 @@ const asilbek = {
 <div align="center">
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e40af&icon_color=1e40af&text_color=ffffff&count_private=true&rank_icon=github&cache_seconds=1800&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e40af&icon_color=1e40af&text_color=ffffff&count_private=true&rank_icon=github&cache_seconds=1800&include_all_commits=true" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e40af&icon_color=1e40af&text_color=ffffff&count_private=true&rank_icon=default&cache_seconds=1800&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e40af&icon_color=1e40af&text_color=ffffff&count_private=true&rank_icon=default&cache_seconds=1800&include_all_commits=true" alt="GitHub Stats" />
   </picture>
   
   <picture>
