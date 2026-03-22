@@ -209,26 +209,29 @@ export default developer;
 
 <div align="center">
 
-<a href="https://asilbek-karomatov.dev">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asilbek2706&repo=portfolio&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" />
-</a>
-<a href="https://asilbek2706.github.io/E-Commerce-ts-app/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asilbek2706&repo=E-Commerce-ts-app&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" />
-</a>
+### 🚀 Tanlangan Loyihalar
 
-</div>
-
-<br/>
-
-<div align="center">
-
-| 🏷️ Project | 🔧 Tech Stack | 🌐 Live |
-|---|---|---|
-| ✨ **Interactive Portfolio** | React · TypeScript · SASS · Bootstrap | [🔗 Visit](https://asilbek-karomatov.dev) |
-| 🎮 **Tic-Tac-Toe** | JavaScript · SASS · Game Logic | [🔗 Visit](https://asilbek2706.github.io/tic-tac-toe/) |
-| 🛒 **Smart Shop** | TypeScript · SASS · DOM | [🔗 Visit](https://asilbek2706.github.io/E-Commerce-ts-app/) |
-| 📖 **Quron** | React · SASS · TypeScript | [🔗 Visit](https://quran-rosy-nine.vercel.app/) |
-
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://asilbek-karomatov.dev">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=asilbek2706&repo=portfolio&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" />
+      </a>
+    </td>
+    <td>
+      <a href="https://asilbek2706.github.io/tic-tac-toe/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=asilbek2706&repo=tic-tac-toe&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://asilbek2706.github.io/E-Commerce-ts-app/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=asilbek2706&repo=E-Commerce-ts-app&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br/>
