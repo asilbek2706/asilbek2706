@@ -37,7 +37,6 @@
 
 <table>
 <tr>
-<td valign="top" width="55%">
 
 ```typescript
 // asilbek.config.ts
@@ -67,29 +66,6 @@ const developer = {
 
 export default developer;
 ```
-
-</td>
-<td valign="top" width="45%">
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=asilbek2706&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&icon_color=818cf8&layout=compact&langs_count=6" alt="WakaTime Stats" /> 
-
-<br/>
-
-<!-- Fun stats block -->
-```
-📌  Commits this year ──────────── 300+
-⭐  Total Stars ─────────────────── 257
-🗂️  Public Repos ──────────────────  30
-🌍  Location ───────────────── 🇺🇿 UZ
-☕  Fuel ──────────────────────── Coffee
-```
-
-</div>
-</td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
@@ -158,16 +134,6 @@ export default developer;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asilbek2706&theme=material-palenight&hide_border=true&background=0d1117&ring=818cf8&fire=f472b6&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=c9d1d9&sideNums=818cf8&currStreakNum=f472b6&stroke=6366f100" alt="GitHub Streak" />
 
 </div>
-
-<!-- STATS:START -->
-<div align="center">
-
-| 🚀 Total Stars | 🛠 Public Projects | 📅 Last Scan |
-|:-:|:-:|:-:|
-| **257** | **30** | **2026-03-22** |
-
-</div>
-<!-- STATS:END -->
 
 <br/>
 
