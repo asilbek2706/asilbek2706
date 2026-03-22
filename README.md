@@ -19,9 +19,6 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<a href="https://github.com/asilbek2706">
-  <img src="https://img.shields.io/github/followers/asilbek2706?label=Followers&style=for-the-badge&logo=github&color=6366f1&labelColor=0d1117" />
-</a>
 <img src="https://komarev.com/ghpvc/?username=asilbek2706&label=Profile+Views&color=6366f1&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
 <img src="https://img.shields.io/badge/Status-Actively_Shipping-6366f1?style=for-the-badge&logo=rocketdotchat&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Open_to-Collaboration-a855f7?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0d1117" />
@@ -76,7 +73,7 @@ export default developer;
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=asilbek2706&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&icon_color=818cf8&layout=compact&langs_count=6" alt="WakaTime Stats" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=asilbek2706&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&icon_color=818cf8&layout=compact&langs_count=6" alt="WakaTime Stats" /> 
 
 <br/>
 
