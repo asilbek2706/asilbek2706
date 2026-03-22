@@ -1,109 +1,197 @@
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                        HEADER BANNER                         -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=1e40af&height=220&section=header&text=Asilbek%20Karomatov&fontSize=80&animation=fadeIn&fontColor=ffffff&fontStyle=monospace" />
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=1e40af&center=true&vCenter=true&width=900&lines=Frontend+Architect+%7C+Junior+React+Engineer;Building+Scalable+High-Performance+UI;System+Online:+Ready+to+Innovate..." alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24,30&height=280&section=header&text=Asilbek%20Karomatov&fontSize=76&animation=fadeIn&fontColor=ffffff&fontAlignY=55&desc=Frontend%20Architect%20%7C%20React%20Engineer&descAlignY=72&descSize=22&descColor=a5b4fc" />
 
-<p align="center">
-  <a href="https://github.com/asilbek2706">
-    <img src="https://img.shields.io/github/followers/asilbek2706?label=Followers&style=for-the-badge&logo=github&color=1e40af&labelColor=111111" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-Actively_Building-1e40af?style=for-the-badge&labelColor=111111&logo=react&logoColor=1e40af" />
-  <a href="https://github.com/asilbek2706?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View_All-1e40af?style=for-the-badge&labelColor=111111&logo=github&logoColor=1e40af" />
-  </a>
-</p>
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED TYPING                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=⚡+Frontend+Architect+%7C+React+Engineer;🚀+Building+Scalable+High-Performance+UI;🧠+TypeScript+%7C+Next.js+%7C+Performance+Optimization;✨+Clean+Code+Is+A+Work+Of+Art" alt="Typing SVG" />
+
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                       BADGE ROW                              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+<a href="https://github.com/asilbek2706">
+  <img src="https://img.shields.io/github/followers/asilbek2706?label=Followers&style=for-the-badge&logo=github&color=6366f1&labelColor=0d1117" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=asilbek2706&label=Profile+Views&color=6366f1&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Status-Actively_Shipping-6366f1?style=for-the-badge&logo=rocketdotchat&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Open_to-Collaboration-10b981?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0d1117" />
+
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                        ABOUT ME                              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> About Me
+
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ```typescript
-const asilbek = {
-  name: "Asilbek Karomatov",
-  role: "Frontend Developer | React Engineer",
+// asilbek.config.ts
+const developer = {
+  name    : "Asilbek Karomatov",
+  role    : "Frontend Developer · React Engineer",
   location: "Uzbekistan 🇺🇿",
-  currentFocus: "Building scalable, high-performance web applications",
-  expertise: ["React", "TypeScript", "Next.js", "Performance Optimization"],
-  learning: ["React Server Components", "Advanced TypeScript", "Web Performance"],
-  philosophy: "Clean code is a work of art 🎨"
-};
+
+  stack: {
+    primary : ["React", "TypeScript", "Next.js"],
+    styling : ["SASS", "Tailwind CSS", "Bootstrap"],
+    backend : ["Node.js", "Django", "Python"],
+    database: ["MySQL", "SQLite"],
+    tools   : ["Git", "Linux", "VS Code", "Figma"],
+  },
+
+  learning : [
+    "React Server Components",
+    "Advanced TypeScript Patterns",
+    "Web Vitals & Performance",
+  ],
+
+  currentlyBuilding: "🔥 High-impact production apps",
+  philosophy: "Clean code is a work of art 🎨",
+  contact: "asilbekkaromatov2@gmail.com",
+} as const;
+
+export default developer;
 ```
 
-<br/>
-
-## 🛠️ Tech Stack
+</td>
+<td valign="top" width="45%">
 
 <div align="center">
 
-### Frontend
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=asilbek2706&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&icon_color=818cf8&layout=compact&langs_count=6" alt="WakaTime Stats" />
+
+<br/>
+
+<!-- Fun stats block -->
+```
+📌  Commits this year ──────────── 300+
+⭐  Total Stars ─────────────────── 257
+🗂️  Public Repos ──────────────────  30
+🌍  Location ───────────────── 🇺🇿 UZ
+☕  Fuel ──────────────────────── Coffee
+```
+
+</div>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                        TECH STACK                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
+
+<div align="center">
+
+**🎨 Frontend Core**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-38B2AC?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### Backend & Tools
+**🖌️ Styling & UI**
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**⚙️ Backend & Databases**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**🛠️ Tools & Environments**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                      GITHUB STATS                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Stats
 
 <div align="center">
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e40af&icon_color=1e40af&text_color=ffffff&count_private=true&rank_icon=github&cache_seconds=1800&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e40af&icon_color=1e40af&text_color=ffffff&count_private=true&rank_icon=github&cache_seconds=1800&include_all_commits=true" alt="GitHub Stats" />
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=asilbek2706&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e40af&text_color=ffffff&langs_count=8&cache_seconds=1800&hide=Jupyter%20Notebook">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilbek2706&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1e40af&text_color=ffffff&langs_count=8&cache_seconds=1800&hide=Jupyter%20Notebook" alt="Top Languages" />
-  </picture>
-  
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&count_private=true&rank_icon=percentile&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilbek2706&layout=compact&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&langs_count=8&hide=Jupyter%20Notebook" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asilbek2706&theme=tokyonight&hide_border=true&background=0d1117&ring=1e40af&fire=1e40af&currStreakLabel=1e40af&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asilbek2706&theme=material-palenight&hide_border=true&background=0d1117&ring=818cf8&fire=f472b6&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=c9d1d9&sideNums=818cf8&currStreakNum=f472b6&stroke=6366f100" alt="GitHub Streak" />
+
 </div>
 
 <!-- STATS:START -->
-> **Status:** `Analysis Complete`
-> 🚀 **Total Stars:** `257`
-> 🛠 **Public Projects:** `30`
-> 📅 **Last Scan:** `2026-03-22 01:56`
+<div align="center">
+
+| 🚀 Total Stars | 🛠 Public Projects | 📅 Last Scan |
+|:-:|:-:|:-:|
+| **257** | **30** | **2026-03-22** |
+
+</div>
 <!-- STATS:END -->
 
 <br/>
 
-## 📈 Detailed Metrics
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    DETAILED METRICS                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 📊 Detailed Metrics
 
 <div align="center">
-  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asilbek2706&theme=tokyonight)
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asilbek2706&theme=tokyonight" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asilbek2706&theme=tokyonight" alt="Most Commit Language" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asilbek2706&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asilbek2706&theme=tokyonight&utcOffset=5" alt="Productive Time" />
-  
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asilbek2706&theme=material_palenight)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asilbek2706&theme=material_palenight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asilbek2706&theme=material_palenight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asilbek2706&theme=material_palenight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asilbek2706&theme=material_palenight&utcOffset=5" />
+
 </div>
 
 <!-- WAKATIME:START -->
@@ -111,22 +199,47 @@ const asilbek = {
 
 <br/>
 
-## 🎯 Featured Projects
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   FEATURED PROJECTS                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-| Project | Tech Stack | Live Demo |
-|---------|-----------|-----------|
-| ✨ **Interactive Portfolio** | React • TypeScript • SASS • Bootstrap | [View →](https://asilbek-karomatov.dev) |
-| 🎮 **Tic-Tac-Toe** | JavaScript • SASS • Game Logic | [View →](https://asilbek2706.github.io/tic-tac-toe/) |
-| 🛒 **Smart Shop** | TypeScript • SASS • DOM | [View →](https://asilbek2706.github.io/E-Commerce-ts-app/) |
-| 📖 **Quron** | React • SASS • Typescript | [View →](https://quran-rosy-nine.vercel.app/) |
+<a href="https://asilbek-karomatov.dev">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asilbek2706&repo=portfolio&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" />
+</a>
+<a href="https://asilbek2706.github.io/E-Commerce-ts-app/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asilbek2706&repo=E-Commerce-ts-app&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" />
+</a>
 
 </div>
 
 <br/>
 
-## 📈 Activity & Contributions
+<div align="center">
+
+| 🏷️ Project | 🔧 Tech Stack | 🌐 Live |
+|---|---|---|
+| ✨ **Interactive Portfolio** | React · TypeScript · SASS · Bootstrap | [🔗 Visit](https://asilbek-karomatov.dev) |
+| 🎮 **Tic-Tac-Toe** | JavaScript · SASS · Game Logic | [🔗 Visit](https://asilbek2706.github.io/tic-tac-toe/) |
+| 🛒 **Smart Shop** | TypeScript · SASS · DOM | [🔗 Visit](https://asilbek2706.github.io/E-Commerce-ts-app/) |
+| 📖 **Quron** | React · SASS · TypeScript | [🔗 Visit](https://quran-rosy-nine.vercel.app/) |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                 ACTIVITY & CONTRIBUTIONS                     -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## ⚡ Activity & Contributions
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/asilbek2706/Sammi-lessons-javascript/pull/3) in [asilbek2706/Sammi-lessons-javascript](https://github.com/asilbek2706/Sammi-lessons-javascript)
@@ -137,51 +250,87 @@ const asilbek = {
 <!--END_SECTION:activity-->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asilbek2706&bg_color=0d1117&color=1e40af&line=1e40af&point=ffffff&area=true&area_color=1e40af&hide_border=true" alt="Activity Graph" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asilbek2706&bg_color=0d1117&color=818cf8&line=818cf8&point=f472b6&area=true&area_color=6366f1&hide_border=true&radius=8" alt="Activity Graph" />
+
 </div>
 
-  ![Snake animation](https://raw.githubusercontent.com/asilbek2706/asilbek2706/output/github-snake-dark.svg)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/asilbek2706/asilbek2706/output/github-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                       TROPHIES                               -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asilbek2706&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=asilbek2706&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
+
 </div>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    ADVANCED METRICS                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 ## 🎨 Advanced Metrics
 
 <div align="center">
-  <img src="/metrics.svg" alt="Metrics" width="100%"/>
+  <img src="/metrics.svg" alt="Metrics" width="100%" />
 </div>
 
 <br/>
 
-## 📫 Connect With Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                      CONNECT                                 -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🌐 Connect With Me
 
 <div align="center">
-  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/as1lbek_2706)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asilbek-karomatov-91336b33b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asilbekkaromatov2@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/asilbek2706)
+
+<a href="https://t.me/as1lbek_2706">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://linkedin.com/in/asilbek-karomatov-91336b33b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="mailto:asilbekkaromatov2@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://www.leetcode.com/asilbek2706">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117" />
+</a>
+<a href="https://asilbek-karomatov.dev">
+  <img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=0d1117" />
+</a>
 
 </div>
 
 <br/>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     QUOTES & FOOTER                          -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-💭 Developer Wisdom
 
-<p><i>"First, solve the problem. Then, write the code." - John Johnson</i></p>
-<p><i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i></p>
-
----
-
-<p><sub>⚡ Powered by passion, coffee, and clean code | Built with ❤️ by Asilbek Karomatov</sub></p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=material-palenight&border=true" alt="Random Dev Quote" />
 
 </div>
-  
-  <hr/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e40af&height=60&section=footer&text=Thanks%20for%20visiting%20my%20universe!&fontSize=20&fontColor=ffffff&fontStyle=monospace" />
-</p>
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&text=Thanks%20for%20visiting%20my%20universe!&fontSize=24&fontColor=ffffff&fontStyle=bold&animation=twinkling&fontAlignY=65" />
+
+</div>
