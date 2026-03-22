@@ -26,7 +26,7 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=asilbek2706&label=Profile+Views&color=6366f1&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
 <img src="https://img.shields.io/badge/Status-Actively_Shipping-6366f1?style=for-the-badge&logo=rocketdotchat&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Open_to-Collaboration-10b981?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Open_to-Collaboration-a855f7?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0d1117" />
 
 </div>
 
