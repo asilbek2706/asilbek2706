@@ -10,11 +10,9 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                     ANIMATED TYPING                          -->
 <!-- ══════════════════════════════════════════════════════════════ -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=⚡+Frontend+Architect+%7C+React+Engineer;🚀+Building+Scalable+High-Performance+UI;🧠+TypeScript+%7C+Next.js+%7C+Performance+Optimization;✨+Clean+Code+Is+A+Work+Of+Art" alt="Typing SVG" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Frontend+Architect+%7C+React+Engineer;%F0%9F%9A%80+Building+Scalable+High-Performance+UI;%F0%9F%A7%A0+TypeScript+%7C+Next.js+%7C+Performance+Optimization;%E2%9C%A8+Clean+Code+Is+A+Work+Of+Art" alt="Typing SVG" />
+</p>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                       BADGE ROW                              -->
