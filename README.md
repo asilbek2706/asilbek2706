@@ -337,7 +337,7 @@ export default developer;
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilbek2706&layout=donut&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&langs_count=8&hide=Jupyter%20Notebook" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilbek2706&layout=donut&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&langs_count=10&hide=Jupyter%20Notebook" />
 
 </div>
 
@@ -448,11 +448,13 @@ export default developer;
 <!--              3D CONTRIBUTION GRAPH                           -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
+<details>
+<summary>📊 View 3D Contribution Graph</summary>
+<br/>
 <div align="center">
-
-<img src="https://github-readme-3d-contrib.vercel.app/api?username=asilbek2706&theme=material-palenight" alt="3D Contribution Graph" width="100%" />
-
+<img src="https://github-readme-3d-contrib.vercel.app/api?username=asilbek2706&theme=material-palenight" alt="3D Contribution Graph" width="100%" loading="lazy" />
 </div>
+</details>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                       TROPHIES                               -->
@@ -500,7 +502,7 @@ export default developer;
 
 <div align="center">
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=material-palenight&qColor=%23818cf8&aColor=%23f472b6" alt="Random Dev Joke" />
+<img src="https://readme-jokes.vercel.app/api?hideBorder=true&theme=material-palenight&qColor=%23818cf8&aColor=%23f472b6" alt="Random Dev Joke" />
 
 </div>
 
