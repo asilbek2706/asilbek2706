@@ -3,7 +3,7 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:6366f1,60:818cf8,100:a855f7&height=280&section=header&text=Asilbek%20Karomatov&fontSize=72&animation=fadeIn&fontColor=ffffff&fontAlignY=50&desc=Senior%20Frontend%20Engineer%20%7C%20React%20%26%20TypeScript%20Specialist&descAlignY=68&descSize=20&descColor=c7d2fe" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:6366f1,60:818cf8,100:a855f7&height=280&section=header&text=Asilbek%20Karomatov&fontSize=72&animation=fadeIn&fontColor=ffffff&fontAlignY=50&desc=Junior%20Frontend%20Engineer%20%7C%20React%20%26%20TypeScript%20Specialist&descAlignY=68&descSize=20&descColor=c7d2fe" />
 
 </div>
 
@@ -47,7 +47,7 @@
 // asilbek.config.ts  ─── Senior Frontend Engineer
 const developer = {
   name     : "Asilbek Karomatov",
-  role     : "Senior Frontend Engineer",
+  role     : "Junior Frontend Engineer",
   location : "Uzbekistan 🇺🇿",
   website  : "https://asilbek-karomatov.dev",
 
