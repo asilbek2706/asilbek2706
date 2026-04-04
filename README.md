@@ -3,7 +3,7 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24,30&height=280&section=header&text=Asilbek%20Karomatov&fontSize=76&animation=fadeIn&fontColor=ffffff&fontAlignY=55&desc=Frontend%20Architect%20%7C%20React%20Engineer&descAlignY=72&descSize=22&descColor=a5b4fc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:6366f1,60:818cf8,100:a855f7&height=280&section=header&text=Asilbek%20Karomatov&fontSize=72&animation=fadeIn&fontColor=ffffff&fontAlignY=50&desc=Senior%20Frontend%20Engineer%20%7C%20React%20%26%20TypeScript%20Specialist&descAlignY=68&descSize=20&descColor=c7d2fe" />
 
 </div>
 
@@ -11,7 +11,7 @@
 <!--                     ANIMATED TYPING                          -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Frontend+Architect+%7C+React+Engineer;%F0%9F%9A%80+Building+Scalable+High-Performance+UI;%F0%9F%A7%A0+TypeScript+%7C+Next.js+%7C+Performance+Optimization;%E2%9C%A8+Clean+Code+Is+A+Work+Of+Art" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&multiline=false&width=860&lines=%E2%9A%A1+Senior+Frontend+Engineer+%7C+5%2B+Years+Experience;%F0%9F%9A%80+React+%7C+TypeScript+%7C+Next.js+%7C+Performance+First;%F0%9F%8E%A8+Pixel-Perfect+UI+%26+Scalable+Architecture;%F0%9F%94%A5+Building+Production+Apps+That+Users+Love;%E2%9C%A8+Clean+Code+Is+A+Work+Of+Art" alt="Typing SVG" />
 </p>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
@@ -20,8 +20,12 @@
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=asilbek2706&label=Profile+Views&color=6366f1&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
+<a href="https://github.com/asilbek2706?tab=followers">
+  <img src="https://img.shields.io/github/followers/asilbek2706?label=Followers&style=for-the-badge&logo=github&color=818cf8&labelColor=0d1117" />
+</a>
 <img src="https://img.shields.io/badge/Status-Actively_Shipping-6366f1?style=for-the-badge&logo=rocketdotchat&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Open_to-Collaboration-a855f7?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Location-Uzbekistan%20🇺🇿-22c55e?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
@@ -37,35 +41,62 @@
 
 <table>
 <tr>
+<td width="55%">
 
 ```typescript
-// asilbek.config.ts
+// asilbek.config.ts  ─── Senior Frontend Engineer
 const developer = {
-  name    : "Asilbek Karomatov",
-  role    : "Frontend Developer · React Engineer",
-  location: "Uzbekistan 🇺🇿",
+  name     : "Asilbek Karomatov",
+  role     : "Senior Frontend Engineer",
+  location : "Uzbekistan 🇺🇿",
+  website  : "https://asilbek-karomatov.dev",
 
-  stack: {
-    primary : ["React", "TypeScript", "Next.js"],
-    styling : ["SASS", "Tailwind CSS", "Bootstrap"],
-    backend : ["Node.js", "Django", "Python"],
-    database: ["MySQL", "SQLite"],
-    tools   : ["Git", "Linux", "VS Code", "Figma"],
+  expertise: {
+    core    : ["React", "TypeScript", "Next.js"],
+    styling : ["SASS/SCSS", "Tailwind CSS", "CSS Modules"],
+    state   : ["Redux Toolkit", "Zustand", "React Query"],
+    testing : ["Jest", "React Testing Library"],
+    backend : ["Node.js", "Express", "Django", "Python"],
+    database: ["MySQL", "SQLite", "REST APIs"],
+    tools   : ["Git", "Webpack", "Vite", "Figma", "Linux"],
   },
 
-  learning : [
-    "React Server Components",
-    "Advanced TypeScript Patterns",
-    "Web Vitals & Performance",
+  currentFocus: [
+    "React Server Components & Next.js 14",
+    "Advanced TypeScript Patterns & Generics",
+    "Core Web Vitals & Performance Tuning",
+    "Micro-Frontend Architecture",
   ],
 
-  currentlyBuilding: "🔥 High-impact production apps",
-  philosophy: "Clean code is a work of art 🎨",
-  contact: "asilbekkaromatov2@gmail.com",
+  currentlyBuilding : "🔥 High-impact production apps",
+  openSource        : true,
+  availableForWork  : true,
+  philosophy        : "Clean code is a work of art 🎨",
+  contact           : "asilbekkaromatov2@gmail.com",
 } as const;
 
 export default developer;
 ```
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&count_private=true&rank_icon=percentile&include_all_commits=true" width="100%" />
+
+<br/>
+
+**🧩 What I Focus On**
+
+| Area | Skills |
+|------|--------|
+| 🎨 UI/UX | React, Next.js, SCSS |
+| ⚡ Performance | Web Vitals, Lazy Loading |
+| 🏗️ Architecture | Clean Code, SOLID |
+| 🔒 Quality | TypeScript, Testing |
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
@@ -95,20 +126,32 @@ export default developer;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+**⚡ State Management & Data Fetching**
+
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=npm&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
 **⚙️ Backend & Databases**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**🛠️ Tools & Environments**
+**🛠️ Tools & DevOps**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 </div>
 
@@ -170,29 +213,119 @@ export default developer;
 
 <div align="center">
 
-### 🚀 Tanlangan Loyihalar
+> Handpicked from **85+ repositories** — production-grade apps, UI experiments & open-source tools
 
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://asilbek-karomatov.dev">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=asilbek2706&repo=portfolio&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" />
-      </a>
-    </td>
-    <td>
-      <a href="https://asilbek2706.github.io/tic-tac-toe/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=asilbek2706&repo=tic-tac-toe&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://asilbek2706.github.io/E-Commerce-ts-app/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=asilbek2706&repo=E-Commerce-ts-app&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" />
-      </a>
-    </td>
-  </tr>
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Tech Stack</th>
+      <th>Live Demo</th>
+      <th>Stars</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01</td>
+      <td><a href="https://github.com/asilbek2706/asilbek.dev"><b>asilbek.dev</b></a></td>
+      <td>Personal full-stack portfolio website with modern animations and responsive design</td>
+      <td>
+        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </td>
+      <td><a href="https://asilbek-karomatov.dev">🌐 Live</a></td>
+      <td>⭐ 17</td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td><a href="https://github.com/asilbek2706/Online-Shopping-Cart"><b>Smart Shop</b></a></td>
+      <td>Lightweight feature-rich shopping cart system with pure JavaScript, cart persistence & product filtering</td>
+      <td>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </td>
+      <td><a href="https://asilbek2706.github.io/Online-Shopping-Cart/">🌐 Live</a></td>
+      <td>⭐ 11</td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td><a href="https://github.com/asilbek2706/News-page"><b>News Page</b></a></td>
+      <td>Responsive news aggregator page with dynamic content layout and modern card-based UI</td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </td>
+      <td><a href="https://github.com/asilbek2706/News-page">📂 Repo</a></td>
+      <td>⭐ 16</td>
+    </tr>
+    <tr>
+      <td>04</td>
+      <td><a href="https://github.com/asilbek2706/To-Do-app"><b>To-Do App</b></a></td>
+      <td>Full-featured task manager with local storage, drag-and-drop reordering and priority labels</td>
+      <td>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </td>
+      <td><a href="https://github.com/asilbek2706/To-Do-app">📂 Repo</a></td>
+      <td>⭐ 15</td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td><a href="https://github.com/asilbek2706/Financial-management"><b>Financial Manager</b></a></td>
+      <td>Personal finance tracking dashboard with charts, transaction history and budget analytics</td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" />
+      </td>
+      <td><a href="https://github.com/asilbek2706/Financial-management">📂 Repo</a></td>
+      <td>⭐ 15</td>
+    </tr>
+    <tr>
+      <td>06</td>
+      <td><a href="https://github.com/asilbek2706/Personal-Webpage"><b>Personal Webpage</b></a></td>
+      <td>Clean personal landing page with smooth scroll animations and accessible semantic markup</td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </td>
+      <td><a href="https://asilbek2706.github.io/Personal-Webpage/">🌐 Live</a></td>
+      <td>⭐ 13</td>
+    </tr>
+    <tr>
+      <td>07</td>
+      <td><a href="https://github.com/asilbek2706/JS-calculator"><b>JS Calculator</b></a></td>
+      <td>Advanced calculator with keyboard support, history log and SCSS-powered custom theme</td>
+      <td>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+      </td>
+      <td><a href="https://github.com/asilbek2706/JS-calculator">📂 Repo</a></td>
+      <td>⭐ 11</td>
+    </tr>
+    <tr>
+      <td>08</td>
+      <td><a href="https://github.com/asilbek2706/TypeScript-Basics"><b>TypeScript Basics</b></a></td>
+      <td>Comprehensive TypeScript examples covering generics, utility types, decorators and patterns</td>
+      <td>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      </td>
+      <td><a href="https://github.com/asilbek2706/TypeScript-Basics">📂 Repo</a></td>
+      <td>⭐ 11</td>
+    </tr>
+  </tbody>
 </table>
+
+<br/>
+
+<a href="https://github.com/asilbek2706?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Repositories-6366f1?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
+
 </div>
 
 <br/>
@@ -295,6 +428,6 @@ export default developer;
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&text=Thanks%20for%20visiting%20my%20universe!&fontSize=24&fontColor=ffffff&fontStyle=bold&animation=twinkling&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:818cf8,100:6366f1&height=130&section=footer&text=Thanks%20for%20visiting%20my%20universe!&fontSize=22&fontColor=ffffff&fontStyle=bold&animation=twinkling&fontAlignY=65" />
 
 </div>
