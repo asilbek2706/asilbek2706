@@ -44,7 +44,7 @@
 <td width="55%">
 
 ```typescript
-// asilbek.config.ts  ─── Senior Frontend Engineer
+// asilbek.config.ts  ─── Junior Frontend Engineer
 const developer = {
   name     : "Asilbek Karomatov",
   role     : "Junior Frontend Engineer",
