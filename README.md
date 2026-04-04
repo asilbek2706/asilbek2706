@@ -11,7 +11,7 @@
 <!--                     ANIMATED TYPING                          -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&multiline=false&width=860&lines=%E2%9A%A1+Senior+Frontend+Engineer+%7C+5%2B+Years+Experience;%F0%9F%9A%80+React+%7C+TypeScript+%7C+Next.js+%7C+Performance+First;%F0%9F%8E%A8+Pixel-Perfect+UI+%26+Scalable+Architecture;%F0%9F%94%A5+Building+Production+Apps+That+Users+Love;%E2%9C%A8+Clean+Code+Is+A+Work+Of+Art" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&multiline=false&width=860&lines=%E2%9A%A1+Junior+Frontend+Engineer+%7C+5%2B+Years+Experience;%F0%9F%9A%80+React+%7C+TypeScript+%7C+Next.js+%7C+Performance+First;%F0%9F%8E%A8+Pixel-Perfect+UI+%26+Scalable+Architecture;%F0%9F%94%A5+Building+Production+Apps+That+Users+Love;%E2%9C%A8+Clean+Code+Is+A+Work+Of+Art" alt="Typing SVG" />
 </p>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
