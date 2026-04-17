@@ -29,6 +29,18 @@
 
 </div>
 
+<div align="center">
+
+### 📊 Auto Stats Snapshot
+<!-- STATS:START -->
+> **Status:** `Analysis Complete`
+> 🚀 **Total Stars:** `299`
+> 🛠 **Public Projects:** `30`
+> 📅 **Last Scan:** `2026-04-17 02:11`
+<!-- STATS:END -->
+
+</div>
+
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
@@ -209,11 +221,11 @@ export default developer;
 <!--                   FEATURED PROJECTS                          -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## 🚀 Featured Projects
+## 🚀 Featured Demo Projects
 
 <div align="center">
 
-> Handpicked from **85+ repositories** — production-grade apps, UI experiments & open-source tools
+> Top **5 live-demo** frontend projects — strong UI/UX, clean architecture, and production mindset by a **Junior Frontend Developer**
 
 <table>
   <thead>
@@ -222,7 +234,7 @@ export default developer;
       <th>Project</th>
       <th>Description</th>
       <th>Tech Stack</th>
-      <th>Live Demo</th>
+      <th>Demo</th>
       <th>Stars</th>
     </tr>
   </thead>
@@ -230,91 +242,57 @@ export default developer;
     <tr>
       <td>01</td>
       <td><a href="https://github.com/asilbek2706/asilbek.dev"><b>asilbek.dev</b></a></td>
-      <td>Personal full-stack portfolio website with modern animations and responsive design</td>
+      <td>Modern personal portfolio with polished interactions, responsive layouts, and clean visual hierarchy</td>
       <td>
-        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/React-6366f1?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/SCSS-a855f7?style=flat-square&logo=sass&logoColor=white" />
       </td>
       <td><a href="https://asilbek-karomatov.dev">🌐 Live</a></td>
       <td>⭐ 17</td>
     </tr>
     <tr>
       <td>02</td>
-      <td><a href="https://github.com/asilbek2706/Online-Shopping-Cart"><b>Smart Shop</b></a></td>
-      <td>Lightweight feature-rich shopping cart system with pure JavaScript, cart persistence & product filtering</td>
+      <td><a href="https://github.com/asilbek2706/tic-tac-toe"><b>Tic-Tac-Toe AI</b></a></td>
+      <td>Interactive game experience with minimax AI difficulty levels, smooth UX, and glassmorphism interface</td>
       <td>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-6366f1?style=flat-square&logo=javascript&logoColor=white" />
+        <img src="https://img.shields.io/badge/SCSS-a855f7?style=flat-square&logo=sass&logoColor=white" />
       </td>
-      <td><a href="https://asilbek2706.github.io/Online-Shopping-Cart/">🌐 Live</a></td>
+      <td><a href="https://asilbek2706.github.io/tic-tac-toe/">🌐 Live</a></td>
       <td>⭐ 11</td>
     </tr>
     <tr>
       <td>03</td>
-      <td><a href="https://github.com/asilbek2706/News-page"><b>News Page</b></a></td>
-      <td>Responsive news aggregator page with dynamic content layout and modern card-based UI</td>
+      <td><a href="https://github.com/asilbek2706/E-Commerce-ts-app"><b>E-Commerce TS App</b></a></td>
+      <td>Type-safe e-commerce interface with scalable component structure and conversion-focused product UX</td>
       <td>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-6366f1?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-818cf8?style=flat-square&logo=react&logoColor=white" />
       </td>
-      <td><a href="https://github.com/asilbek2706/News-page">📂 Repo</a></td>
-      <td>⭐ 16</td>
-    </tr>
-    <tr>
-      <td>04</td>
-      <td><a href="https://github.com/asilbek2706/To-Do-app"><b>To-Do App</b></a></td>
-      <td>Full-featured task manager with local storage, drag-and-drop reordering and priority labels</td>
-      <td>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      </td>
-      <td><a href="https://github.com/asilbek2706/To-Do-app">📂 Repo</a></td>
-      <td>⭐ 15</td>
-    </tr>
-    <tr>
-      <td>05</td>
-      <td><a href="https://github.com/asilbek2706/Financial-management"><b>Financial Manager</b></a></td>
-      <td>Personal finance tracking dashboard with charts, transaction history and budget analytics</td>
-      <td>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" />
-      </td>
-      <td><a href="https://github.com/asilbek2706/Financial-management">📂 Repo</a></td>
-      <td>⭐ 15</td>
-    </tr>
-    <tr>
-      <td>06</td>
-      <td><a href="https://github.com/asilbek2706/Personal-Webpage"><b>Personal Webpage</b></a></td>
-      <td>Clean personal landing page with smooth scroll animations and accessible semantic markup</td>
-      <td>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      </td>
-      <td><a href="https://asilbek2706.github.io/Personal-Webpage/">🌐 Live</a></td>
-      <td>⭐ 13</td>
-    </tr>
-    <tr>
-      <td>07</td>
-      <td><a href="https://github.com/asilbek2706/JS-calculator"><b>JS Calculator</b></a></td>
-      <td>Advanced calculator with keyboard support, history log and SCSS-powered custom theme</td>
-      <td>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
-      </td>
-      <td><a href="https://github.com/asilbek2706/JS-calculator">📂 Repo</a></td>
+      <td><a href="https://asilbek2706.github.io/E-Commerce-ts-app/">🌐 Live</a></td>
       <td>⭐ 11</td>
     </tr>
     <tr>
-      <td>08</td>
-      <td><a href="https://github.com/asilbek2706/TypeScript-Basics"><b>TypeScript Basics</b></a></td>
-      <td>Comprehensive TypeScript examples covering generics, utility types, decorators and patterns</td>
+      <td>04</td>
+      <td><a href="https://github.com/asilbek2706/Currency-converter"><b>Currency Converter</b></a></td>
+      <td>API-driven converter with practical OOP structure, clear interaction states, and user-friendly flow</td>
       <td>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-6366f1?style=flat-square&logo=javascript&logoColor=white" />
+        <img src="https://img.shields.io/badge/API-22c55e?style=flat-square&logo=postman&logoColor=white" />
       </td>
-      <td><a href="https://github.com/asilbek2706/TypeScript-Basics">📂 Repo</a></td>
+      <td><a href="https://asilbek2706.github.io/Currency-converter/">🌐 Live</a></td>
+      <td>⭐ 11</td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td><a href="https://github.com/asilbek2706/Cyber-page"><b>Cyber Page</b></a></td>
+      <td>Bold landing page concept with cinematic styling, layered sections, and high-impact visual storytelling</td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML5-6366f1?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/SCSS-a855f7?style=flat-square&logo=sass&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-818cf8?style=flat-square&logo=javascript&logoColor=white" />
+      </td>
+      <td><a href="https://asilbek2706.github.io/Cyber-page/">🌐 Live</a></td>
       <td>⭐ 11</td>
     </tr>
   </tbody>
