@@ -3,7 +3,7 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0f172a,55:1e1b4b,80:0c4a6e,100:0d1117&height=290&section=header&text=Asilbek%20Karomatov&fontSize=72&animation=fadeIn&fontColor=e0f2fe&fontAlignY=48&desc=Junior%20Frontend%20Engineer%20%7C%20React%20·%20TypeScript%20·%20Next.js&descAlignY=66&descSize=20&descColor=7dd3fc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:0f172a,50:1e1b4b,80:0c4a6e,100:0d1117&height=280&section=header&text=Asilbek%20Karomatov&fontSize=68&animation=fadeIn&fontColor=e0f2fe&fontAlignY=46&desc=Junior%20Frontend%20Engineer%20%7C%20React%20%C2%B7%20TypeScript%20%C2%B7%20Next.js&descAlignY=64&descSize=20&descColor=7dd3fc" />
 
 </div>
 
@@ -11,7 +11,7 @@
 <!--                     ANIMATED TYPING                          -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&multiline=false&width=900&lines=%E2%9A%A1+Junior+Frontend+Engineer+%7C+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF;%F0%9F%9A%80+React+%7C+TypeScript+%7C+Next.js+%7C+Performance+First;%F0%9F%8E%A8+Pixel-Perfect+UI+%26+Scalable+Architecture;%F0%9F%A4%96+AI+Tools+%7C+Real-Time+Apps+%7C+SaaS+Products;%F0%9F%94%A5+30%2B+Projects+%7C+283%2B+Stars+on+GitHub;%E2%9C%A8+Clean+Code+Is+A+Work+Of+Art" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=860&lines=Junior+Frontend+Engineer+%7C+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF;React+%7C+TypeScript+%7C+Next.js+%7C+Performance+First;Pixel-Perfect+UI+%26+Clean+Architecture;AI-Powered+Apps+%7C+Real-Time+%7C+SaaS;30%2B+Projects+Shipped+%7C+283%2B+GitHub+Stars;Clean+Code+Is+A+Work+of+Art+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
@@ -23,14 +23,17 @@
 <a href="https://github.com/asilbek2706?tab=followers">
   <img src="https://img.shields.io/github/followers/asilbek2706?label=Followers&style=for-the-badge&logo=github&color=8b5cf6&labelColor=0d1117" />
 </a>
-<img src="https://img.shields.io/badge/Status-Open_to_Work-22c55e?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Focus-Frontend_&_UI%2FUX-0ea5e9?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Location-Uzbekistan%20🇺🇿-f472b6?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Focus-Frontend%20%26%20UI%2FUX-0ea5e9?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Location-Uzbekistan%20%F0%9F%87%BA%F0%9F%87%BF-f472b6?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
 <br/>
 
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                     AUTO STATS SNAPSHOT                      -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
 ### 📊 Auto Stats Snapshot
@@ -45,73 +48,64 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                        ABOUT ME                              -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 <table>
 <tr>
-<td width="55%">
+<td width="54%">
 
 ```typescript
-// asilbek.config.ts  ─── Junior Frontend Engineer
+// asilbek.config.ts
 const developer = {
   name     : "Asilbek Karomatov",
   role     : "Junior Frontend Engineer",
-  location : "Uzbekistan 🇺🇿",
+  location : "Tashkent, Uzbekistan 🇺🇿",
   website  : "https://asilbek-karomatov.dev",
+  email    : "asilbekkaromatov2@gmail.com",
 
-  expertise: {
+  stack: {
     core    : ["React 18", "TypeScript", "Next.js 14"],
-    styling : ["SCSS/SASS", "Tailwind CSS", "CSS Modules"],
+    styling : ["Tailwind CSS", "SCSS/SASS", "CSS Modules"],
     state   : ["Redux Toolkit", "Zustand", "React Query"],
-    realtime: ["Socket.io", "Firebase", "REST APIs"],
-    ai      : ["OpenAI API", "Gemini", "LangChain"],
-    backend : ["Node.js", "Express", "Django", "Python"],
-    tools   : ["Vite", "Webpack", "Git", "Figma", "Linux"],
+    realtime: ["Socket.io", "Firebase"],
+    ai      : ["OpenAI API", "Google Gemini"],
+    backend : ["Node.js", "Express", "Django"],
+    tooling : ["Vite", "Webpack", "Git", "Figma", "Linux"],
   },
 
   currentFocus: [
-    "⚡ React Server Components & Next.js 14",
+    "⚡ Next.js 14 App Router & RSC",
     "🤖 AI-Powered Web Applications",
-    "🏎️ Core Web Vitals & Performance Tuning",
-    "🏗️ Micro-Frontend Architecture",
+    "🏎️  Core Web Vitals & Perf Tuning",
+    "🏗️  Scalable Component Architecture",
   ],
 
-  funFacts: [
-    "30+ projects shipped 🚀",
-    "283+ GitHub stars collected ⭐",
-    "Open source contributor 🌍",
-  ],
-
-  philosophy : "Every pixel matters. Every ms counts. 🎨",
-  contact    : "asilbekkaromatov2@gmail.com",
+  philosophy : "Every pixel matters. Every ms counts.",
+  openTo     : ["Full-time", "Freelance", "Open Source"],
 } as const;
-
-export default developer;
 ```
 
 </td>
-<td width="45%" align="center">
+<td width="46%" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=8b5cf6&text_color=cbd5e1&count_private=true&rank_icon=percentile&include_all_commits=true" width="100%" />
 
 <br/>
 
-**🧩 Core Focus Areas**
-
 | Area | Stack |
 |------|-------|
 | ⚛️ Frontend | React · Next.js · TypeScript |
 | 🎨 Styling | Tailwind · SCSS · Figma |
-| 🤖 AI Apps | OpenAI · Gemini APIs |
+| 🤖 AI | OpenAI · Gemini APIs |
 | 🔄 Real-time | Socket.io · Firebase |
-| ⚡ Perf | Web Vitals · Lazy Load |
-| 🏗️ Arch | Clean Code · SOLID |
+| ⚡ Perf | Core Web Vitals · Lazy Load |
+| 🏗️ Architecture | SOLID · Clean Code |
 
 </td>
 </tr>
@@ -120,73 +114,12 @@ export default developer;
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                   CURRENTLY BUILDING                         -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-## 🔥 Currently Building
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🎨 Paint Project
-**Interactive Canvas Drawing App**
-
-Draw, sketch, and create freely in the browser with a smooth canvas experience and rich toolset.
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Canvas_API-0ea5e9?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-
-[🌐 Live Demo](https://asilbek2706.github.io/paint-project/) · [📂 Code](https://github.com/asilbek2706/paint-project)
-
-</td>
-<td align="center" width="33%">
-
-### 🎬 Evo Cinema App
-**Movie Browsing & Booking Platform**
-
-Modern cinema experience — browse films, view trailers, and get your tickets with a sleek UI.
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-
-[🌐 Live Demo](https://asil-evo-cinema.vercel.app) · [📂 Code](https://github.com/asilbek2706/evo-cinema-app)
-
-</td>
-<td align="center" width="33%">
-
-### 🤖 AI Résumé Analyzer
-**AI-Powered CV Review Tool**
-
-Upload your résumé and get instant AI-driven feedback, suggestions, and scoring to land your dream job.
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-
-[🌐 Live Demo](https://jsm-ai-resume-analyzer-80-ffh0j.puter.site) · [📂 Code](https://github.com/asilbek2706/ai-rezume-analyzer)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                        TECH STACK                            -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="26"> Tech Stack
 
 <div align="center">
 
@@ -203,12 +136,11 @@ Upload your résumé and get instant AI-driven feedback, suggestions, and scorin
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 **⚡ State, Data & Real-time**
 
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=npm&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
@@ -222,10 +154,10 @@ Upload your résumé and get instant AI-driven feedback, suggestions, and scorin
 
 **⚙️ Backend & Databases**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **🛠️ Tools & DevOps**
@@ -235,7 +167,6 @@ Upload your résumé and get instant AI-driven feedback, suggestions, and scorin
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -248,7 +179,7 @@ Upload your résumé and get instant AI-driven feedback, suggestions, and scorin
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <details>
-<summary><b>⚡ Skill Proficiency — Click to expand</b></summary>
+<summary><b>⚡ Skill Proficiency — click to expand</b></summary>
 
 <br/>
 
@@ -256,18 +187,18 @@ Upload your résumé and get instant AI-driven feedback, suggestions, and scorin
 
 | Skill | Level | Proficiency |
 |-------|-------|-------------|
-| React | 🔵 Advanced | `████████████░░░` 80% |
-| TypeScript | 🔵 Advanced | `███████████░░░░` 73% |
 | JavaScript | 🟣 Expert | `██████████████░` 93% |
 | SCSS / CSS | 🟣 Expert | `██████████████░` 90% |
-| Next.js | 🔵 Advanced | `█████████░░░░░░` 60% |
+| React 18 | 🔵 Advanced | `████████████░░░` 80% |
 | Tailwind CSS | 🔵 Advanced | `████████████░░░` 80% |
 | Redux Toolkit | 🔵 Advanced | `████████████░░░` 80% |
-| Node.js / Express | 🟡 Intermediate | `████████░░░░░░░` 53% |
-| Python / Django | 🟡 Intermediate | `███████░░░░░░░░` 47% |
+| TypeScript | 🔵 Advanced | `███████████░░░░` 73% |
 | React Query | 🔵 Advanced | `███████████░░░░` 73% |
+| Next.js 14 | 🔵 Advanced | `█████████░░░░░░` 60% |
+| Node.js / Express | 🟡 Intermediate | `████████░░░░░░░` 53% |
 | Socket.io | 🟡 Intermediate | `████████░░░░░░░` 53% |
 | AI APIs (OpenAI/Gemini) | 🟡 Intermediate | `████████░░░░░░░` 53% |
+| Python / Django | 🟡 Intermediate | `███████░░░░░░░░` 47% |
 
 </div>
 
@@ -281,12 +212,12 @@ Upload your résumé and get instant AI-driven feedback, suggestions, and scorin
 <!--                      GITHUB STATS                            -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=8b5cf6&text_color=cbd5e1&count_private=true&rank_icon=percentile&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilbek2706&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1&langs_count=8&hide=Jupyter%20Notebook" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=8b5cf6&text_color=cbd5e1&count_private=true&rank_icon=percentile&include_all_commits=true" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilbek2706&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1&langs_count=8&hide=Jupyter%20Notebook" />
 
 </div>
 
@@ -331,7 +262,7 @@ Upload your résumé and get instant AI-driven feedback, suggestions, and scorin
 
 <div align="center">
 
-> **10 live-demo** projects — real apps shipped by a **Junior Frontend Engineer** with production mindset
+> **10 live projects** — real apps built with a production mindset
 
 <table>
   <thead>
@@ -339,128 +270,128 @@ Upload your résumé and get instant AI-driven feedback, suggestions, and scorin
       <th>#</th>
       <th>Project</th>
       <th>Description</th>
-      <th>Tech Stack</th>
+      <th>Stack</th>
       <th>Demo</th>
-      <th>Stars</th>
+      <th>⭐</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>01</td>
       <td><a href="https://github.com/asilbek2706/asilbek.dev"><b>asilbek.dev</b></a></td>
-      <td>Personal portfolio with polished animations, responsive layout, and clean visual hierarchy</td>
+      <td>Personal portfolio — polished animations, responsive layout, clean visual hierarchy</td>
       <td>
         <img src="https://img.shields.io/badge/React-0ea5e9?style=flat-square&logo=react&logoColor=white" />
         <img src="https://img.shields.io/badge/SCSS-8b5cf6?style=flat-square&logo=sass&logoColor=white" />
       </td>
       <td><a href="https://asilbek-karomatov.dev">🌐 Live</a></td>
-      <td>⭐ 17</td>
+      <td>17</td>
     </tr>
     <tr>
       <td>02</td>
+      <td><a href="https://github.com/asilbek2706/tic-tac-toe"><b>Tic-Tac-Toe AI</b></a></td>
+      <td>Minimax AI, smooth UX animations, glassmorphism design</td>
+      <td>
+        <img src="https://img.shields.io/badge/JavaScript-0ea5e9?style=flat-square&logo=javascript&logoColor=white" />
+        <img src="https://img.shields.io/badge/SCSS-8b5cf6?style=flat-square&logo=sass&logoColor=white" />
+      </td>
+      <td><a href="https://asilbek2706.github.io/tic-tac-toe/">🌐 Live</a></td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td><a href="https://github.com/asilbek2706/E-Commerce-ts-app"><b>E-Commerce TS</b></a></td>
+      <td>Type-safe storefront, scalable component structure, conversion-focused UX</td>
+      <td>
+        <img src="https://img.shields.io/badge/TypeScript-0ea5e9?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-8b5cf6?style=flat-square&logo=react&logoColor=white" />
+      </td>
+      <td><a href="https://asilbek2706.github.io/E-Commerce-ts-app/">🌐 Live</a></td>
+      <td>11</td>
+    </tr>
+    <tr>
+      <td>04</td>
       <td><a href="https://github.com/asilbek2706/ecosystem-react-app"><b>Ecosystem React App</b></a></td>
-      <td>Full-featured React ecosystem showcase with hooks, routing, state management & data-fetching patterns</td>
+      <td>React ecosystem showcase — hooks, routing, state management, data-fetching patterns</td>
       <td>
         <img src="https://img.shields.io/badge/React-0ea5e9?style=flat-square&logo=react&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-8b5cf6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Redux-f472b6?style=flat-square&logo=redux&logoColor=white" />
       </td>
       <td>📂 Repo</td>
-      <td>⭐ 9</td>
+      <td>9</td>
     </tr>
     <tr>
-      <td>03</td>
-      <td><a href="https://github.com/asilbek2706/real-time-chat-react-app"><b>Real-Time Chat App</b></a></td>
-      <td>Live messaging app with WebSocket-powered real-time communication, user rooms, and modern chat UI</td>
+      <td>05</td>
+      <td><a href="https://github.com/asilbek2706/real-time-chat-react-app"><b>Real-Time Chat</b></a></td>
+      <td>WebSocket-powered messaging, user rooms, modern chat UI</td>
       <td>
         <img src="https://img.shields.io/badge/React-0ea5e9?style=flat-square&logo=react&logoColor=white" />
         <img src="https://img.shields.io/badge/Socket.io-34d399?style=flat-square&logo=socket.io&logoColor=black" />
         <img src="https://img.shields.io/badge/Node.js-8b5cf6?style=flat-square&logo=node.js&logoColor=white" />
       </td>
       <td>📂 Repo</td>
-      <td>⭐ 6</td>
+      <td>6</td>
     </tr>
     <tr>
-      <td>04</td>
+      <td>06</td>
       <td><a href="https://github.com/asilbek2706/ai-rezume-analyzer"><b>AI Résumé Analyzer</b></a></td>
-      <td>AI-powered résumé review tool that gives instant scores, feedback, and improvement tips using LLMs</td>
+      <td>Upload CV → instant AI scores, feedback, improvement tips via LLMs</td>
       <td>
         <img src="https://img.shields.io/badge/React-0ea5e9?style=flat-square&logo=react&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenAI-f472b6?style=flat-square&logo=openai&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-8b5cf6?style=flat-square&logo=typescript&logoColor=white" />
       </td>
       <td><a href="https://jsm-ai-resume-analyzer-80-ffh0j.puter.site">🌐 Live</a></td>
-      <td>⭐ 4</td>
+      <td>4</td>
     </tr>
     <tr>
-      <td>05</td>
+      <td>07</td>
       <td><a href="https://github.com/asilbek2706/asilbek-shop"><b>Asilbek Shop</b></a></td>
-      <td>Full e-commerce storefront with cart, product catalog, filters, and a seamless checkout experience</td>
+      <td>E-commerce storefront — cart, catalog, filters, seamless checkout</td>
       <td>
         <img src="https://img.shields.io/badge/React-0ea5e9?style=flat-square&logo=react&logoColor=white" />
         <img src="https://img.shields.io/badge/Redux-8b5cf6?style=flat-square&logo=redux&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind-34d399?style=flat-square&logo=tailwind-css&logoColor=white" />
       </td>
       <td><a href="https://asilbek-shop.vercel.app">🌐 Live</a></td>
-      <td>⭐ 4</td>
+      <td>4</td>
     </tr>
     <tr>
-      <td>06</td>
-      <td><a href="https://github.com/asilbek2706/evo-cinema-app"><b>Evo Cinema App</b></a></td>
-      <td>Sleek movie browsing & booking platform with dynamic film cards, trailer previews, and smooth navigation</td>
-      <td>
-        <img src="https://img.shields.io/badge/React-0ea5e9?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-8b5cf6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-34d399?style=flat-square&logo=tailwind-css&logoColor=white" />
-      </td>
-      <td><a href="https://asil-evo-cinema.vercel.app">🌐 Live</a></td>
-      <td>⭐ 3</td>
-    </tr>
-    <tr>
-      <td>07</td>
+      <td>08</td>
       <td><a href="https://github.com/asilbek2706/project_syncfusion_dashboard"><b>Syncfusion Dashboard</b></a></td>
-      <td>Feature-rich admin dashboard with charts, data tables, themes, and Syncfusion UI components</td>
+      <td>Admin dashboard — charts, data tables, multi-theme, Syncfusion components</td>
       <td>
         <img src="https://img.shields.io/badge/React-0ea5e9?style=flat-square&logo=react&logoColor=white" />
         <img src="https://img.shields.io/badge/Syncfusion-f472b6?style=flat-square&logo=react&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind-34d399?style=flat-square&logo=tailwind-css&logoColor=white" />
       </td>
       <td><a href="https://shoppy-chi-six.vercel.app">🌐 Live</a></td>
-      <td>⭐ 4</td>
-    </tr>
-    <tr>
-      <td>08</td>
-      <td><a href="https://github.com/asilbek2706/E-Commerce-ts-app"><b>E-Commerce TS App</b></a></td>
-      <td>Type-safe e-commerce interface with scalable component structure and conversion-focused product UX</td>
-      <td>
-        <img src="https://img.shields.io/badge/TypeScript-0ea5e9?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-8b5cf6?style=flat-square&logo=react&logoColor=white" />
-      </td>
-      <td><a href="https://asilbek2706.github.io/E-Commerce-ts-app/">🌐 Live</a></td>
-      <td>⭐ 11</td>
+      <td>4</td>
     </tr>
     <tr>
       <td>09</td>
+      <td><a href="https://github.com/asilbek2706/evo-cinema-app"><b>Evo Cinema App</b></a></td>
+      <td>Movie browsing & booking — dynamic film cards, trailers, smooth navigation</td>
+      <td>
+        <img src="https://img.shields.io/badge/React-0ea5e9?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-8b5cf6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-34d399?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </td>
+      <td><a href="https://asil-evo-cinema.vercel.app">🌐 Live</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td><a href="https://github.com/asilbek2706/paint-project"><b>Paint App</b></a></td>
-      <td>Browser-based interactive canvas drawing tool with multiple brushes, colors, and drawing modes</td>
+      <td>Browser canvas drawing — brushes, colors, eraser, undo/redo</td>
       <td>
         <img src="https://img.shields.io/badge/JavaScript-0ea5e9?style=flat-square&logo=javascript&logoColor=white" />
         <img src="https://img.shields.io/badge/Canvas_API-f472b6?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-8b5cf6?style=flat-square&logo=css3&logoColor=white" />
       </td>
       <td><a href="https://asilbek2706.github.io/paint-project/">🌐 Live</a></td>
-      <td>⭐ 1</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td><a href="https://github.com/asilbek2706/tic-tac-toe"><b>Tic-Tac-Toe AI</b></a></td>
-      <td>Interactive game with minimax AI difficulty levels, smooth UX animations, and glassmorphism design</td>
-      <td>
-        <img src="https://img.shields.io/badge/JavaScript-0ea5e9?style=flat-square&logo=javascript&logoColor=white" />
-        <img src="https://img.shields.io/badge/SCSS-8b5cf6?style=flat-square&logo=sass&logoColor=white" />
-      </td>
-      <td><a href="https://asilbek2706.github.io/tic-tac-toe/">🌐 Live</a></td>
-      <td>⭐ 11</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table>
@@ -470,6 +401,67 @@ Upload your résumé and get instant AI-driven feedback, suggestions, and scorin
 <a href="https://github.com/asilbek2706?tab=repositories">
   <img src="https://img.shields.io/badge/View_All_30%2B_Repositories-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 </a>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   CURRENTLY BUILDING                         -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 🔥 Currently Building
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎨 Paint Project
+**Interactive Canvas Drawing App**
+
+Draw, sketch, and create freely in the browser with a smooth canvas experience and a rich toolset.
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Canvas_API-0ea5e9?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+
+[🌐 Live](https://asilbek2706.github.io/paint-project/) · [📂 Code](https://github.com/asilbek2706/paint-project)
+
+</td>
+<td align="center" width="33%">
+
+### 🎬 Evo Cinema App
+**Movie Browsing & Booking Platform**
+
+Modern cinema experience — browse films, view trailers, and book tickets with a sleek UI.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+
+[🌐 Live](https://asil-evo-cinema.vercel.app) · [📂 Code](https://github.com/asilbek2706/evo-cinema-app)
+
+</td>
+<td align="center" width="33%">
+
+### 🤖 AI Résumé Analyzer
+**AI-Powered CV Review Tool**
+
+Upload your résumé and get instant AI-driven feedback, scores, and improvement tips.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+
+[🌐 Live](https://jsm-ai-resume-analyzer-80-ffh0j.puter.site) · [📂 Code](https://github.com/asilbek2706/ai-rezume-analyzer)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -489,33 +481,33 @@ Upload your résumé and get instant AI-driven feedback, suggestions, and scorin
 <tr>
 <td width="50%">
 
-**✅ Mastered**
-- ✅ React 18 + Hooks
-- ✅ TypeScript (Advanced)
+**✅ Solid Foundation**
+- ✅ React 18 + Hooks (deep)
+- ✅ TypeScript — advanced patterns
 - ✅ Redux Toolkit + Zustand
 - ✅ SCSS / Tailwind CSS
 - ✅ REST APIs + Axios
-- ✅ React Query (TanStack)
+- ✅ React Query (TanStack v5)
 - ✅ Git + GitHub Actions
 - ✅ Vite + Webpack
-- ✅ Socket.io (Real-time)
+- ✅ Socket.io real-time apps
 - ✅ Node.js + Express
 
 </td>
 <td width="50%">
 
-**🚀 Currently Learning**
-- 🔄 Next.js 14 (App Router + RSC)
+**🔄 Currently Learning**
+- 🔄 Next.js 14 App Router & RSC
 - 🔄 AI/LLM Integration (OpenAI, Gemini)
-- 🔄 Advanced TypeScript Patterns
+- 🔄 Advanced TypeScript — generics & utility types
 - 🔄 Micro-Frontend Architecture
 - 🔄 Docker & CI/CD Pipelines
 
 **📌 On the Roadmap**
 - 📌 React Native (Mobile)
 - 📌 GraphQL + Apollo
-- 📌 AWS / Cloud Services
 - 📌 PostgreSQL + Prisma
+- 📌 AWS / Cloud Services
 
 </td>
 </tr>
@@ -585,7 +577,7 @@ Upload your résumé and get instant AI-driven feedback, suggestions, and scorin
 <!--                      CONNECT                                 -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
 
@@ -610,12 +602,12 @@ Upload your résumé and get instant AI-driven feedback, suggestions, and scorin
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     QUOTES & FOOTER                          -->
+<!--                     QUOTE & FOOTER                           -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Dev Quote" />
 
 </div>
 
@@ -623,6 +615,6 @@ Upload your résumé and get instant AI-driven feedback, suggestions, and scorin
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0c4a6e,60:1e1b4b,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20great%20together%20🚀&fontSize=18&fontColor=e0f2fe&fontStyle=bold&animation=twinkling&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0c4a6e,60:1e1b4b,100:0d1117&height=130&section=footer&text=Thanks%20for%20visiting!%20Let%E2%80%99s%20build%20something%20great%20together%20%F0%9F%9A%80&fontSize=17&fontColor=e0f2fe&fontStyle=bold&animation=twinkling&fontAlignY=65" />
 
 </div>
