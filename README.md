@@ -526,11 +526,11 @@ Upload your résumé and get instant AI-driven feedback, scores, and improvement
 ## ⚡ Activity & Contributions
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/asilbek2706/asilbek2706/pull/18#issuecomment-4322634661) in [asilbek2706/asilbek2706](https://github.com/asilbek2706/asilbek2706)
-2. 🎉 Merged PR [#2](https://github.com/shakxina2506/Malik-s-Project/pull/2) in [shakxina2506/Malik-s-Project](https://github.com/shakxina2506/Malik-s-Project)
-3. 💪 Opened PR [#2](https://github.com/shakxina2506/Malik-s-Project/pull/2) in [shakxina2506/Malik-s-Project](https://github.com/shakxina2506/Malik-s-Project)
-4. ❗ Opened issue [#1](https://github.com/mehrigiyo756/video-audio2-html/issues/1) in [mehrigiyo756/video-audio2-html](https://github.com/mehrigiyo756/video-audio2-html)
-5. 🎉 Merged PR [#22](https://github.com/asilbek2706/ai-writer/pull/22) in [asilbek2706/ai-writer](https://github.com/asilbek2706/ai-writer)
+1. 🎉 Merged PR [#3](https://github.com/asilbek2706/lumiere-app/pull/3) in [asilbek2706/lumiere-app](https://github.com/asilbek2706/lumiere-app)
+2. 💪 Opened PR [#3](https://github.com/asilbek2706/lumiere-app/pull/3) in [asilbek2706/lumiere-app](https://github.com/asilbek2706/lumiere-app)
+3. 🎉 Merged PR [#2](https://github.com/asilbek2706/lumiere-app/pull/2) in [asilbek2706/lumiere-app](https://github.com/asilbek2706/lumiere-app)
+4. 💪 Opened PR [#2](https://github.com/asilbek2706/lumiere-app/pull/2) in [asilbek2706/lumiere-app](https://github.com/asilbek2706/lumiere-app)
+5. 🎉 Merged PR [#1](https://github.com/asilbek2706/lumiere-app/pull/1) in [asilbek2706/lumiere-app](https://github.com/asilbek2706/lumiere-app)
 <!--END_SECTION:activity-->
 
 <div align="center">
