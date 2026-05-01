@@ -526,11 +526,11 @@ Upload your résumé and get instant AI-driven feedback, scores, and improvement
 ## ⚡ Activity & Contributions
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/asilbek2706/asilbek-hotel-app/pull/2) in [asilbek2706/asilbek-hotel-app](https://github.com/asilbek2706/asilbek-hotel-app)
-2. 🎉 Merged PR [#1](https://github.com/asilbek2706/asilbek-ecommerce-app/pull/1) in [asilbek2706/asilbek-ecommerce-app](https://github.com/asilbek2706/asilbek-ecommerce-app)
-3. 💪 Opened PR [#1](https://github.com/asilbek2706/asilbek-ecommerce-app/pull/1) in [asilbek2706/asilbek-ecommerce-app](https://github.com/asilbek2706/asilbek-ecommerce-app)
-4. 🎉 Merged PR [#1](https://github.com/asilbek2706/asilbek-hotel-app/pull/1) in [asilbek2706/asilbek-hotel-app](https://github.com/asilbek2706/asilbek-hotel-app)
-5. 💪 Opened PR [#1](https://github.com/asilbek2706/asilbek-hotel-app/pull/1) in [asilbek2706/asilbek-hotel-app](https://github.com/asilbek2706/asilbek-hotel-app)
+1. 🎉 Merged PR [#1](https://github.com/asilbek2706/google-drive/pull/1) in [asilbek2706/google-drive](https://github.com/asilbek2706/google-drive)
+2. 💪 Opened PR [#1](https://github.com/asilbek2706/google-drive/pull/1) in [asilbek2706/google-drive](https://github.com/asilbek2706/google-drive)
+3. 💪 Opened PR [#2](https://github.com/asilbek2706/asilbek-hotel-app/pull/2) in [asilbek2706/asilbek-hotel-app](https://github.com/asilbek2706/asilbek-hotel-app)
+4. 🎉 Merged PR [#1](https://github.com/asilbek2706/asilbek-ecommerce-app/pull/1) in [asilbek2706/asilbek-ecommerce-app](https://github.com/asilbek2706/asilbek-ecommerce-app)
+5. 💪 Opened PR [#1](https://github.com/asilbek2706/asilbek-ecommerce-app/pull/1) in [asilbek2706/asilbek-ecommerce-app](https://github.com/asilbek2706/asilbek-ecommerce-app)
 <!--END_SECTION:activity-->
 
 <div align="center">
