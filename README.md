@@ -206,11 +206,11 @@ export default developer;
 ## ⚡ Activity & Contributions
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/asilbek2706/Sammi-lessons-javascript/pull/3) in [asilbek2706/Sammi-lessons-javascript](https://github.com/asilbek2706/Sammi-lessons-javascript)
-2. 💪 Opened PR [#3](https://github.com/asilbek2706/Sammi-lessons-javascript/pull/3) in [asilbek2706/Sammi-lessons-javascript](https://github.com/asilbek2706/Sammi-lessons-javascript)
-3. ❌ Closed PR [#1](https://github.com/asilbek2706/Dynamic-landing-page/pull/1) in [asilbek2706/Dynamic-landing-page](https://github.com/asilbek2706/Dynamic-landing-page)
-4. ❗ Opened issue [#1](https://github.com/mehrigiyo756/video-audio2-html/issues/1) in [mehrigiyo756/video-audio2-html](https://github.com/mehrigiyo756/video-audio2-html)
-5. 🎉 Merged PR [#22](https://github.com/asilbek2706/ai-writer/pull/22) in [asilbek2706/ai-writer](https://github.com/asilbek2706/ai-writer)
+1. 🎉 Merged PR [#1](https://github.com/asilbek2706/NextJS-16-tutorial/pull/1) in [asilbek2706/NextJS-16-tutorial](https://github.com/asilbek2706/NextJS-16-tutorial)
+2. 💪 Opened PR [#1](https://github.com/asilbek2706/NextJS-16-tutorial/pull/1) in [asilbek2706/NextJS-16-tutorial](https://github.com/asilbek2706/NextJS-16-tutorial)
+3. 🎉 Merged PR [#3](https://github.com/asilbek2706/google-drive/pull/3) in [asilbek2706/google-drive](https://github.com/asilbek2706/google-drive)
+4. 💪 Opened PR [#3](https://github.com/asilbek2706/google-drive/pull/3) in [asilbek2706/google-drive](https://github.com/asilbek2706/google-drive)
+5. 🎉 Merged PR [#2](https://github.com/asilbek2706/google-drive/pull/2) in [asilbek2706/google-drive](https://github.com/asilbek2706/google-drive)
 <!--END_SECTION:activity-->
 
 <div align="center">
