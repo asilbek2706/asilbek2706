@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20&text=Asilbek%20Karomatov&fontAlignY=35&fontSize=60&desc=Frontend%20Developer%20•%20React%20|%20TypeScript%20|%20Next.js&descAlignY=57&descSize=19" alt="Asilbek Karomatov profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20&text=Asilbek%20Karomatov&fontAlignY=35&fontSize=60&desc=Frontend%20Developer%20%E2%80%A2%20React%20%7C%20TypeScript%20%7C%20Next.js&descAlignY=57&descSize=19" alt="Asilbek Karomatov profile header" />
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&width=920&lines=Building+beautiful%2C+performant+and+user-focused+interfaces;Clean+code+%E2%80%A2+Solid+architecture+%E2%80%A2+Great+UX;Always+learning+and+shipping+real+products" alt="Typing SVG" />
 
@@ -25,7 +25,7 @@
 <div align="center">
 <table>
   <tr>
-    <td width="56%" valign="top">
+    <td valign="top">
 
 ### 👨‍💻 Profile
 - 🇺🇿 Based in Uzbekistan  
@@ -42,7 +42,7 @@
 - Consistent design system
 
 </td>
-<td width="44%" valign="top" align="center">
+<td valign="top" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=a78bfa&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub stats" />
 </td>
   </tr>
