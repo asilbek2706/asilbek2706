@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Asilbek%20Karomatov&fontAlignY=35&fontSize=62&desc=Frontend%20Developer%20%E2%80%A2%20React%20%7C%20TypeScript%20%7C%20Next.js&descAlignY=58&descSize=20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Asilbek%20Karomatov&fontAlignY=35&fontSize=62&desc=Frontend%20Developer%20%E2%80%A2%20React%20%7C%20TypeScript%20%7C%20Next.js&descAlignY=58&descSize=20" alt="Profile header showing Asilbek Karomatov - Frontend Developer specializing in React, TypeScript, and Next.js" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3200&pause=850&color=818CF8&center=true&vCenter=true&width=860&lines=Designing+clean%2C+fast%2C+and+scalable+web+experiences;Always+learning%2C+always+building;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
 </div>
@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=react,ts,nextjs,js,html,css,sass,tailwind,bootstrap,git,github,vscode,figma,nodejs,python,django,mysql,linux" />
 </div>
 
-## Live GitHub Snapshot
+## 📸 Live GitHub Snapshot
 
 <!-- STATS:START -->
 > **Status:** `Analysis Complete`
