@@ -11,10 +11,14 @@
 </div>
 
 <div align="center">
-
-| Quick Nav |
-| --- |
-| [About](#about-me) • [Tech](#tech-toolbox) • [Stats](#live-github-snapshot) • [Projects](#featured-projects) • [Activity](#recent-activity) • [Metrics](#advanced-metrics) • [Connect](#connect-with-me) |
+  <strong>Quick Nav</strong><br/>
+  <a href="#about-me">About</a> •
+  <a href="#tech-toolbox">Tech</a> •
+  <a href="#live-github-snapshot">Stats</a> •
+  <a href="#featured-projects">Projects</a> •
+  <a href="#recent-activity">Activity</a> •
+  <a href="#advanced-metrics">Metrics</a> •
+  <a href="#connect-with-me">Connect</a>
 
 </div>
 
