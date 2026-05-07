@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asilbek2706&label=Profile+Views&color=6366f1&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Open_to-Collaboration-a855f7?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0d1117" alt="Collaboration" />
-  <img src="https://img.shields.io/badge/Role-Junior_Frontend_Developer-22c55e?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" alt="Role" />
+  <img src="https://img.shields.io/badge/Role-Junior%20Frontend%20Developer-22c55e?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" alt="Role" />
 </p>
 
 ## 👨‍💻 About Me
@@ -81,7 +81,7 @@
 ## 🧭 Advanced Metrics
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="/github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
 
 ## 🌐 Connect
