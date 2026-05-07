@@ -81,7 +81,7 @@
 ## 🧭 Advanced Metrics
 
 <div align="center">
-  <img src="/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/asilbek2706/asilbek2706/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
 
 ## 🌐 Connect
