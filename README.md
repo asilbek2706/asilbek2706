@@ -1,40 +1,72 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Asilbek%20Karomatov&fontAlignY=35&fontSize=62&desc=Frontend%20Developer%20%E2%80%A2%20React%20%7C%20TypeScript%20%7C%20Next.js&descAlignY=58&descSize=20" alt="Asilbek Karomatov profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20&text=Asilbek%20Karomatov&fontAlignY=35&fontSize=60&desc=Frontend%20Developer%20•%20React%20|%20TypeScript%20|%20Next.js&descAlignY=57&descSize=19" alt="Asilbek Karomatov profile header" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3200&pause=850&color=818CF8&center=true&vCenter=true&width=860&lines=Designing+clean%2C+fast%2C+and+scalable+web+experiences;Always+learning%2C+always+building;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&width=920&lines=Building+beautiful%2C+performant+and+user-focused+interfaces;Clean+code+%E2%80%A2+Solid+architecture+%E2%80%A2+Great+UX;Always+learning+and+shipping+real+products" alt="Typing SVG" />
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=asilbek2706&label=Profile+Views&color=6366f1&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Open%20to-Collaboration-a855f7?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0d1117" alt="Open to Collaboration" />
+    <img src="https://img.shields.io/badge/Focused%20on-UI%2FUX%20Excellence-22c55e?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117" alt="Focused on UI/UX" />
+  </p>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asilbek2706&label=Profile+Views&color=6366f1&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Open_to-Collaboration-a855f7?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0d1117" alt="Collaboration" />
-  <img src="https://img.shields.io/badge/Currently-Building%20Frontend%20Projects-22c55e?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" alt="Current Focus" />
-</p>
+<div align="center">
+
+| Quick Nav |
+| --- |
+| [About](#-about-me) • [Tech](#-tech-toolbox) • [Stats](#-live-github-snapshot) • [Projects](#-featured-projects) • [Activity](#-recent-activity) • [Metrics](#-advanced-metrics) • [Connect](#-connect-with-me) |
+
+</div>
+
+---
 
 ## ✨ About Me
 
+<div align="center">
 <table>
   <tr>
-    <td>
+    <td width="56%" valign="top">
 
+### 👨‍💻 Profile
 - 🇺🇿 Based in Uzbekistan  
-- 💼 Frontend developer focused on modern, smooth UI  
-- ⚙️ Main stack: **React, TypeScript, Next.js**  
-- 📚 Learning: architecture, performance, and clean code  
+- 💼 Frontend engineer creating smooth and modern interfaces  
+- ⚙️ Core stack: **React, TypeScript, Next.js**  
+- 🧠 Current focus: architecture, performance, clean code, UX  
 - 🎯 Goal: build reliable products with senior-level quality  
-- ✉️ Reach me: **asilbekkaromatov2@gmail.com**
+- ✉️ Contact: **asilbekkaromatov2@gmail.com**
 
-   </td>
-   <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=a78bfa&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub stats" />
-   </td>
+### 💎 UX Principles
+- Clear visual hierarchy  
+- Fast and responsive interactions  
+- Accessibility-first mindset  
+- Consistent design system
+
+</td>
+<td width="44%" valign="top" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=a78bfa&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub stats" />
+</td>
   </tr>
 </table>
+</div>
+
+---
 
 ## 🧰 Tech Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,js,html,css,sass,tailwind,bootstrap,git,github,vscode,figma,nodejs,python,django,mysql,linux" />
+
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,js,html,css,sass,tailwind,bootstrap,git,github,vscode,figma,nodejs,python,django,mysql,linux" alt="Tech stack icons" />
+
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/Frontend-Expert-6366f1?style=for-the-badge&labelColor=0d1117" alt="Frontend" />
+<img src="https://img.shields.io/badge/UI%2FUX-Product%20Thinking-a855f7?style=for-the-badge&labelColor=0d1117" alt="UI/UX" />
+<img src="https://img.shields.io/badge/Code-Clean%20%26%20Scalable-22c55e?style=for-the-badge&labelColor=0d1117" alt="Code quality" />
+
 </div>
+
+---
 
 ## 📸 Live GitHub Snapshot
 
@@ -45,6 +77,8 @@
 > 📅 **Last Scan:** `Pending update`
 <!-- STATS:END -->
 
+---
+
 ## 📊 Performance & Activity
 
 <div align="center">
@@ -54,6 +88,8 @@
 
 <!-- WAKATIME:START -->
 <!-- WAKATIME:END -->
+
+---
 
 ## 🚀 Featured Projects
 
@@ -72,6 +108,12 @@
   </a>
 </div>
 
+<div align="center">
+  <sub>More projects coming with strong UI and product-level UX quality.</sub>
+</div>
+
+---
+
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
@@ -85,11 +127,15 @@
   <img src="https://raw.githubusercontent.com/asilbek2706/asilbek2706/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
+---
+
 ## 🧭 Advanced Metrics
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/asilbek2706/asilbek2706/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
+
+---
 
 ## 🌐 Connect With Me
 
@@ -99,6 +145,10 @@
   <a href="mailto:asilbekkaromatov2@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail" /></a>
   <a href="https://asilbek-karomatov.dev"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
 </p>
+
+<div align="center">
+  <h3>🤝 Let’s build beautiful products together</h3>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20" alt="Footer" />
