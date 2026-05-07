@@ -14,7 +14,7 @@
 
 | Quick Nav |
 | --- |
-| [About](#-about-me) • [Tech](#-tech-toolbox) • [Stats](#-live-github-snapshot) • [Projects](#-featured-projects) • [Activity](#-recent-activity) • [Metrics](#-advanced-metrics) • [Connect](#-connect-with-me) |
+| [About](#about-me) • [Tech](#tech-toolbox) • [Stats](#live-github-snapshot) • [Projects](#featured-projects) • [Activity](#recent-activity) • [Metrics](#advanced-metrics) • [Connect](#connect-with-me) |
 
 </div>
 
