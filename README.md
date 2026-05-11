@@ -108,6 +108,11 @@
 ## ✦ Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/asilbek2706/asilbek-school-frontend/pull/1) in [asilbek2706/asilbek-school-frontend](https://github.com/asilbek2706/asilbek-school-frontend)
+2. 💪 Opened PR [#1](https://github.com/asilbek2706/asilbek-school-frontend/pull/1) in [asilbek2706/asilbek-school-frontend](https://github.com/asilbek2706/asilbek-school-frontend)
+3. 💪 Opened PR [#1](https://github.com/mehrigiyo756/The-online-Books/pull/1) in [mehrigiyo756/The-online-Books](https://github.com/mehrigiyo756/The-online-Books)
+4. 🎉 Merged PR [#1](https://github.com/asilbek2706/NextJS-16-tutorial/pull/1) in [asilbek2706/NextJS-16-tutorial](https://github.com/asilbek2706/NextJS-16-tutorial)
+5. 💪 Opened PR [#1](https://github.com/asilbek2706/NextJS-16-tutorial/pull/1) in [asilbek2706/NextJS-16-tutorial](https://github.com/asilbek2706/NextJS-16-tutorial)
 <!--END_SECTION:activity-->
 
 <div align="center">
