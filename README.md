@@ -37,7 +37,7 @@ I optimize for clarity in both code and user experience.
 ## GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&theme=transparent&hide_border=true&title_color=e6edf3&text_color=9aa4b2&icon_color=818CF8&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&theme=transparent&hide_border=true&title_color=e6edf3&text_color=9aa4b2&icon_color=6366F1&count_private=true&include_all_commits=true" alt="GitHub stats" />
 </p>
 
 ---
@@ -45,11 +45,8 @@ I optimize for clarity in both code and user experience.
 ## Contact
 
 <p align="left">
-  <a href="https://asilbek-karomatov.dev" aria-label="Portfolio"><img src="https://cdn.simpleicons.org/vercel/%23818CF8" width="20" height="20" alt="Portfolio" /></a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/asilbek-karomatov-91336b33b" aria-label="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/%23818CF8" width="20" height="20" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/as1lbek_2706" aria-label="Telegram"><img src="https://cdn.simpleicons.org/telegram/%23818CF8" width="20" height="20" alt="Telegram" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:asilbekkaromatov2@gmail.com" aria-label="Email"><img src="https://cdn.simpleicons.org/gmail/%23818CF8" width="20" height="20" alt="Email" /></a>
+  <a href="https://asilbek-karomatov.dev" aria-label="Portfolio"><img src="https://cdn.simpleicons.org/vercel/%234F46E5" width="20" height="20" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/asilbek-karomatov-91336b33b" aria-label="LinkedIn" style="margin-left:12px;"><img src="https://cdn.simpleicons.org/linkedin/%234F46E5" width="20" height="20" alt="LinkedIn" /></a>
+  <a href="https://t.me/as1lbek_2706" aria-label="Telegram" style="margin-left:12px;"><img src="https://cdn.simpleicons.org/telegram/%234F46E5" width="20" height="20" alt="Telegram" /></a>
+  <a href="mailto:asilbekkaromatov2@gmail.com" aria-label="Email" style="margin-left:12px;"><img src="https://cdn.simpleicons.org/gmail/%234F46E5" width="20" height="20" alt="Email" /></a>
 </p>
