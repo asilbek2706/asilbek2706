@@ -2,9 +2,9 @@
 
 # Asilbek Karomatov
 
-**Frontend Engineer · Product-minded builder of fast, elegant web experiences**
+**Frontend Engineer building premium, performance-first web products.**
 
-<sub>Designing interfaces that feel simple, scale cleanly, and ship with intent.</sub>
+<sub>I design and ship web experiences that feel effortless, scale reliably, and create real product value.</sub>
 
 </div>
 
@@ -12,65 +12,41 @@
 
 ## About
 
-I build premium frontend products with a strong focus on usability, performance, and maintainable architecture.
-
-- Based in Uzbekistan
-- Focused on React ecosystems and modern web platforms
-- Open to high-impact product collaborations
+I build scalable frontend systems with a product-first mindset.
+I care deeply about performance, clean architecture, and long-term maintainability.
+I focus on interfaces that are fast, intuitive, and visually refined.
+I optimize for clarity in both code and user experience.
 
 ---
 
-## Stack
+## Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-0B0F19?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-0B0F19?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-0B0F19?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0B0F19?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-0B0F19?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-</p>
+`TypeScript` · `React` · `Next.js` · `Tailwind CSS` · `TanStack Query` · `Node.js`
 
 ---
 
 ## Featured Projects
 
-- **[asilbek.dev](https://github.com/asilbek2706/asilbek.dev)** — Personal product space for experiments, frontend architecture, and design direction.
-- **[google-drive](https://github.com/asilbek2706/google-drive)** — Cloud-drive style interface focused on UX clarity and component structure.
-- **[Next.js Tutorial Repository](https://github.com/asilbek2706/NextJS-16-tutorial)** — Practical Next.js patterns and modern frontend workflows.
+- **[asilbek.dev](https://github.com/asilbek2706/asilbek.dev)** — Personal full-stack portfolio platform focused on polished UI, strong interaction quality, and production-ready frontend architecture.
+- **[NextJS-16-tutorial](https://github.com/asilbek2706/NextJS-16-tutorial)** — Developer event discovery product built with modern Next.js patterns for fast content browsing and clean navigation.
+- **[google-drive](https://github.com/asilbek2706/google-drive)** — Cloud file management experience with modern auth flow and dashboard-driven UX inspired by real-world storage products.
+- **[asilbek-school-frontend](https://github.com/asilbek2706/asilbek-school-frontend)** — Scalable education platform frontend structured for multi-page product growth and maintainable component architecture.
 
 ---
 
 ## GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&theme=transparent&hide_border=true&title_color=e6edf3&text_color=9aa4b2&icon_color=7c8cff&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&theme=transparent&hide_border=true&title_color=e6edf3&text_color=9aa4b2&icon_color=6366F1&count_private=true&include_all_commits=true" alt="Asilbek Karomatov's GitHub contribution statistics" />
 </p>
-
-<!-- STATS:START -->
-> **Status:** `Analysis Complete`
-> 🚀 **Total Stars:** `251`
-> 🛠 **Public Projects:** `30`
-> 📅 **Last Scan:** `2026-05-14 02:47`
-<!-- STATS:END -->
-
-<!-- WAKATIME:START -->
-<!-- WAKATIME:END -->
-
-<details>
-  <summary>Recent activity</summary>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
 
 ---
 
 ## Contact
 
 <p align="left">
-  <a href="https://asilbek-karomatov.dev"><img src="https://img.shields.io/badge/Portfolio-0B0F19?style=flat-square&logo=firefoxbrowser&logoColor=FFFFFF" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/asilbek-karomatov-91336b33b"><img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="https://t.me/as1lbek_2706"><img src="https://img.shields.io/badge/Telegram-0B0F19?style=flat-square&logo=telegram&logoColor=26A5E4" alt="Telegram" /></a>
-  <a href="mailto:asilbekkaromatov2@gmail.com"><img src="https://img.shields.io/badge/Email-0B0F19?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://asilbek-karomatov.dev" aria-label="Portfolio"><img src="https://cdn.simpleicons.org/vercel/%23312E81" width="20" height="20" alt="" /></a>
+  <a href="https://linkedin.com/in/asilbek-karomatov-91336b33b" aria-label="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/%23312E81" width="20" height="20" alt="" /></a>
+  <a href="https://t.me/as1lbek_2706" aria-label="Telegram"><img src="https://cdn.simpleicons.org/telegram/%23312E81" width="20" height="20" alt="" /></a>
+  <a href="mailto:asilbekkaromatov2@gmail.com" aria-label="Email"><img src="https://cdn.simpleicons.org/gmail/%23312E81" width="20" height="20" alt="" /></a>
 </p>
