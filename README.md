@@ -36,7 +36,7 @@ I build premium frontend products with a strong focus on usability, performance,
 
 - **[asilbek.dev](https://github.com/asilbek2706/asilbek.dev)** — Personal product space for experiments, frontend architecture, and design direction.
 - **[google-drive](https://github.com/asilbek2706/google-drive)** — Cloud-drive style interface focused on UX clarity and component structure.
-- **[Next.js-16-tutorial](https://github.com/asilbek2706/NextJS-16-tutorial)** — Practical Next.js patterns and modern frontend workflows.
+- **[Next.js Tutorial Repository](https://github.com/asilbek2706/NextJS-16-tutorial)** — Practical Next.js patterns and modern frontend workflows.
 
 ---
 
