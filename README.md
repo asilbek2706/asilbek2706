@@ -26,10 +26,6 @@
 
 ## ✦ About Me
 
-<div align="center">
-
-</div>
-
 - 👋 I’m **Asilbek Karomatov**, a frontend developer focused on product-grade interfaces.
 - 🇺🇿 Based in **Uzbekistan**.
 - ⚡ Specialized in **React • TypeScript • Next.js** ecosystems.
@@ -45,16 +41,12 @@
   <img src="https://skillicons.dev/icons?i=react,ts,nextjs,redux,tailwind,html,css,sass,nodejs,express,python,django,postgres,mysql,git,github,vercel,vscode,figma,ps" alt="Tech Icons" />
 </div>
 
-<div align="center">
-
 | Category | Stack |
 |:--:|:--|
 | **Frontend** | React, TypeScript, Next.js, Redux, Tailwind CSS |
 | **Backend** | Node.js, Express, Python, Django |
 | **Tools** | Git, GitHub, Vercel, VS Code, Postman |
 | **Design** | Figma, Design Systems, UX Research, Prototyping |
-
-</div>
 
 ---
 
