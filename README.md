@@ -109,7 +109,7 @@ Code Time tracking will appear here when WakaTime is configured.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. Activity feed will appear here automatically.
+1. 🎉 Merged PR [#3](https://github.com/asilbek2706/OSI-model-visualization/pull/3) in [asilbek2706/OSI-model-visualization](https://github.com/asilbek2706/OSI-model-visualization)
 <!--END_SECTION:activity-->
 
 ---
