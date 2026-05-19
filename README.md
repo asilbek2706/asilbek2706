@@ -2,60 +2,81 @@
 
 # Asilbek Karomatov
 
-**Frontend Engineer building premium, performance-first web products.**
+### Frontend Engineer crafting polished products, scalable UI systems, and modern web experiences
 
-<sub>I turn complex product requirements into polished interfaces, scalable frontend architecture, and fast user experiences.</sub>
+<p>
+  <a href="https://asilbek-karomatov.dev"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/asilbek-karomatov-91336b33b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/asilbek2706?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+</p>
 
-<br />
-<br />
-
-[Flagship Project](https://github.com/asilbek2706/asilbek-school-frontend) · [Portfolio](https://asilbek-karomatov.dev) · [LinkedIn](https://linkedin.com/in/asilbek-karomatov-91336b33b)
+<sub>I enjoy turning product ideas into professional interfaces with strong architecture, smooth UX, and production-ready engineering standards.</sub>
 
 </div>
 
 ---
 
-## About
+## Profile Snapshot
 
-I build frontend systems with a product-first mindset and a strong focus on quality.
-My work centers on clean architecture, intuitive UX, robust auth flows, and maintainable codebases that can grow with real products.
-
----
-
-## Core Stack
-
-`TypeScript` · `React` · `Next.js` · `Vite` · `Tailwind CSS` · `TanStack Query` · `Node.js` · `Playwright`
+- Building with **TypeScript, React, Next.js, Vite, Tailwind CSS, Node.js**
+- Interested in **frontend architecture, auth flows, design systems, performance, and full product execution**
+- Focused on projects that balance **clean code, visual quality, and maintainability**
 
 ---
 
-## Flagship Project
+## Featured Projects
 
-### [My Courses / asilbek-school-frontend](https://github.com/asilbek2706/asilbek-school-frontend)
-
-A production-minded learning platform frontend and currently my strongest public project.
-
-- Built with **React + TypeScript** using a layered architecture for long-term scale
-- Ships **email OTP auth**, **real GitHub OAuth flow**, protected routes, and RBAC-ready structure
-- Uses a **repository pattern** to switch between mock data and backend APIs without rewriting UI logic
-- Prepared for **OpenAPI/Swagger** client generation and backend integration
-- Includes **Vitest**, **Playwright**, reusable UI primitives, and polished error-state UX
-
-**Why it stands out:** it combines product thinking, frontend architecture, authentication, testing, and integration readiness in one cohesive codebase.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/asilbek2706/asilbek-school-frontend">My Courses / asilbek-school-frontend</a></h3>
+      <p>Learning platform frontend built with a strong architectural foundation, real authentication flow, and testing setup for long-term product growth.</p>
+      <p><strong>Highlights:</strong> React + TypeScript, repository pattern, OTP auth, GitHub OAuth, RBAC-ready routing, Vitest, Playwright.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/asilbek2706/asilbek.dev">asilbek.dev</a></h3>
+      <p>Personal portfolio platform designed as a premium brand experience with motion, 3D visuals, and secure user contact workflows.</p>
+      <p><strong>Highlights:</strong> React, TypeScript, TanStack Query, Three.js, Lenis, reCAPTCHA v3, responsive glassmorphism UI.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/asilbek2706/Quran-Memorization-Journal">Quran Memorization Journal</a></h3>
+      <p>Interactive study application that combines structured content, audio playback, responsive design, and practical state management.</p>
+      <p><strong>Highlights:</strong> React, TypeScript, Vite, Context API, audio recitations, local caching, Uzbek-first learning experience.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/asilbek2706/WebSocket-lessons-nodejs">WebSocket Lessons Node.js</a></h3>
+      <p>Backend-focused demo that explores real-time communication patterns through live match commentary and broadcast messaging.</p>
+      <p><strong>Highlights:</strong> Node.js, Express, PostgreSQL, WebSocket broadcasting, heartbeats, subscriptions, message validation.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## More Selected Work
+## What I Bring
 
-- **[asilbek.dev](https://github.com/asilbek2706/asilbek.dev)** — Personal full-stack portfolio platform focused on premium visuals, motion, and production-ready frontend architecture.
-- **[WebSocket-lessons-nodejs](https://github.com/asilbek2706/WebSocket-lessons-nodejs)** — Live match commentary backend demo using Express, Postgres, and WebSocket broadcasting patterns.
-- **[google-drive](https://github.com/asilbek2706/google-drive)** — Cloud file management experience with modern auth flow and dashboard-oriented UX.
+- **Product mindset** — I care about how a feature feels, not only how it works
+- **Architecture discipline** — I like scalable structures that stay maintainable as products grow
+- **UI quality** — I focus on clean visuals, consistent components, and polished interactions
+- **Execution speed** — I enjoy shipping practical features with solid engineering decisions
 
 ---
 
-## GitHub Analytics
+## GitHub Graphs
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&theme=transparent&hide_border=true&title_color=e6edf3&text_color=9aa4b2&icon_color=6366F1&count_private=true&include_all_commits=true" alt="Asilbek Karomatov's GitHub contribution statistics" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&theme=transparent&hide_border=true&title_color=e6edf3&text_color=9aa4b2&icon_color=6366F1&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilbek2706&layout=compact&theme=transparent&hide_border=true&title_color=e6edf3&text_color=9aa4b2" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=asilbek2706&theme=transparent&hide_border=true&ring=6366F1&fire=F59E0B&currStreakLabel=E6EDF3&sideLabels=9AA4B2&dates=9AA4B2" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asilbek2706&bg_color=0d1117&color=9aa4b2&line=6366f1&point=f59e0b&area=true&hide_border=true" alt="Contribution activity graph" />
 </p>
 
 <!-- STATS:START -->
@@ -69,7 +90,7 @@ A production-minded learning platform frontend and currently my strongest public
 
 ## Advanced Metrics
 
-<p align="left">
+<p align="center">
   <img src="./github-metrics.svg" alt="Advanced GitHub metrics for Asilbek Karomatov" />
 </p>
 
