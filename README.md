@@ -5,9 +5,9 @@
 ### Frontend Engineer crafting polished products, scalable UI systems, and modern web experiences
 
 <p>
-  <a href="https://asilbek-karomatov.dev"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://asilbek-karomatov.dev"><img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/asilbek-karomatov-91336b33b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/asilbek2706?tab=repositories"><img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+  <a href="https://github.com/asilbek2706?tab=repositories"><img src="https://img.shields.io/badge/Projects-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
 </p>
 
 <sub>I enjoy turning product ideas into professional interfaces with strong architecture, smooth UX, and production-ready engineering standards.</sub>
@@ -18,37 +18,60 @@
 
 ## Profile Snapshot
 
-- Building with **TypeScript, React, Next.js, Vite, Tailwind CSS, Node.js**
-- Interested in **frontend architecture, auth flows, design systems, performance, and full product execution**
-- Focused on projects that balance **clean code, visual quality, and maintainability**
+- Building modern products with **TypeScript, React, Next.js, Angular, Node.js, Python**
+- Strong in **frontend architecture, authentication flows, responsive UI, and practical backend integration**
+- Focused on balancing **clean code, speed, UX polish, and maintainable structure**
 
 ---
 
-## Featured Projects
+## Core Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Angular-1D4ED8?style=for-the-badge&logo=react&logoColor=white" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Languages-TypeScript%20%7C%20JavaScript%20%7C%20Python-1E3A8A?style=for-the-badge&logo=typescript&logoColor=white" alt="Languages" />
+  <img src="https://img.shields.io/badge/UI-Tailwind%20CSS%20%7C%20Responsive%20Design-1E40AF?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="UI" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20PostgreSQL-1E293B?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend" />
+</p>
+
+---
+
+## Featured Repositories
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/asilbek2706/asilbek-school-frontend">My Courses / asilbek-school-frontend</a></h3>
-      <p>Learning platform frontend built with a strong architectural foundation, real authentication flow, and testing setup for long-term product growth.</p>
-      <p><strong>Highlights:</strong> React + TypeScript, repository pattern, OTP auth, GitHub OAuth, RBAC-ready routing, Vitest, Playwright.</p>
+      <h3><a href="https://github.com/asilbek2706/asilbek-school-frontend">asilbek-school-frontend</a></h3>
+      <p>Production-style learning platform frontend.</p>
+      <p><strong>Stack:</strong> React, TypeScript, Vitest, Playwright.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/asilbek2706/asilbek.dev">asilbek.dev</a></h3>
-      <p>Personal portfolio platform designed as a premium brand experience with motion, 3D visuals, and secure user contact workflows.</p>
-      <p><strong>Highlights:</strong> React, TypeScript, TanStack Query, Three.js, Lenis, reCAPTCHA v3, responsive glassmorphism UI.</p>
+      <h3><a href="https://github.com/asilbek2706/WebSocket-lessons-nodejs">WebSocket-lessons-nodejs</a></h3>
+      <p>Real-time backend demo with WebSocket broadcast patterns.</p>
+      <p><strong>Stack:</strong> Node.js, Express, PostgreSQL, WebSocket.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/asilbek2706/Quran-Memorization-Journal">Quran Memorization Journal</a></h3>
-      <p>Interactive study application that combines structured content, audio playback, responsive design, and practical state management.</p>
-      <p><strong>Highlights:</strong> React, TypeScript, Vite, Context API, audio recitations, local caching, Uzbek-first learning experience.</p>
+      <h3><a href="https://github.com/asilbek2706/Sammi-lessons-typescript">Sammi-lessons-typescript</a></h3>
+      <p>TypeScript-focused practical exercises and patterns.</p>
+      <p><strong>Stack:</strong> TypeScript, frontend fundamentals.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/asilbek2706/WebSocket-lessons-nodejs">WebSocket Lessons Node.js</a></h3>
-      <p>Backend-focused demo that explores real-time communication patterns through live match commentary and broadcast messaging.</p>
-      <p><strong>Highlights:</strong> Node.js, Express, PostgreSQL, WebSocket broadcasting, heartbeats, subscriptions, message validation.</p>
+      <h3><a href="https://github.com/asilbek2706/NextJS-16-tutorial">NextJS-16-tutorial</a></h3>
+      <p>Modern Next.js learning project for event-oriented UX flows.</p>
+      <p><strong>Stack:</strong> Next.js, TypeScript, UI components.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/asilbek2706/asilbek-uzum-market-clone">asilbek-uzum-market-clone</a></h3>
+      <p>E-commerce style interface clone with clean layouts.</p>
+      <p><strong>Stack:</strong> TypeScript, responsive design.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/asilbek2706/Food-Lover">Food-Lover</a></h3>
+      <p>Restaurant/food showcase app with polished UI approach.</p>
+      <p><strong>Stack:</strong> HTML, CSS, JavaScript.</p>
     </td>
   </tr>
 </table>
