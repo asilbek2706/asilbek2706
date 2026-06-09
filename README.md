@@ -87,6 +87,11 @@
 
 ---
 
+## My Old Portfolio
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f4942169-e58b-4203-952d-29c6b455cb2d/deploy-status)](https://app.netlify.com/projects/asilbekdev)
+
+---
+
 ## GitHub Graphs
 
 <p align="center">
