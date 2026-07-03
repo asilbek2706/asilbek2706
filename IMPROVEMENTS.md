@@ -6,6 +6,7 @@
 
 Ushbu PR GitHub profil README.md faylidagi statistika va metrikalarni yaxshilaydi va ishonchli qiladi.
 
+
 #### Asosiy Muammolar va Yechimlar:
 
 1. **GitHub Stats va Top Languages Ko'rinmaydi**
