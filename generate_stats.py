@@ -8,7 +8,6 @@ def fetch_stats():
     username = "Asilbek2706"
     headers = {"Authorization": f"token {token}"} if token else {}
     
-    # Repolarni olish
     repo_res = requests.get(f"https://api.github.com/users/{username}/repos", headers=headers)
     repos = repo_res.json()
     
