@@ -9,6 +9,7 @@ Ushbu PR GitHub profil README.md faylidagi statistika va metrikalarni yaxshilayd
 
 #### Asosiy Muammolar va Yechimlar:
 
+
 1. **GitHub Stats va Top Languages Ko'rinmaydi**
    - **Muammo**: Statik rasmlar ba'zida yuklanmaydi yoki eskirgan ma'lumotlarni ko'rsatadi
    - **Yechim**: 
