@@ -15,6 +15,7 @@ def fetch_stats():
     # Commitlarni hisoblash (soddalashtirilgan)
     total_stars = sum(repo['stargazers_count'] for repo in repos)
     repo_count = len(repos)
+
     
     stats_text = f"""> **Status:** `Analysis Complete`
 > 🚀 **Total Stars:** `{total_stars}`
