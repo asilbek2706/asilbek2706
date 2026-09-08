@@ -37,6 +37,13 @@
 
 ---
 
+## Activity
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asilbek2706&theme=tokyonight" />
+</p>
+
+--
+
 ## Featured Repositories
 
 <table>
