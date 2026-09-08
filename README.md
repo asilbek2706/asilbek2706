@@ -24,6 +24,15 @@
 - Strong in **frontend architecture, authentication flows, responsive UI, and practical backend integration**
 - Focused on balancing **clean code, speed, UX polish, and maintainable structure**
 
+## Quick Navigation
+
+- [Core Skills](#core-skills)
+- [Featured Repositories](#featured-repositories)
+- [GitHub Graphs](#github-graphs)
+- [Advanced Metrics](#advanced-metrics)
+- [Recent Activity](#recent-activity)
+- [Contact](#contact)
+
 ---
 
 ## Core Skills
@@ -37,12 +46,12 @@
 
 ---
 
-## Activity
+## Language Overview
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asilbek2706&theme=tokyonight" />
 </p>
 
---
+---
 
 ## Featured Repositories
 
@@ -93,6 +102,14 @@
 - **Architecture discipline** — I like scalable structures that stay maintainable as products grow
 - **UI quality** — I focus on clean visuals, consistent components, and polished interactions
 - **Execution speed** — I enjoy shipping practical features with solid engineering decisions
+
+---
+
+## Current Focus
+
+- Shipping polished frontend features with accessible, component-driven UI systems
+- Building full-stack projects with production-oriented architecture and clean code standards
+- Deepening practical expertise in performance, testing, and scalable TypeScript applications
 
 ---
 
@@ -154,6 +171,14 @@ No activity tracked
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/asilbek2706/OSI-model-visualization/pull/3) in [asilbek2706/OSI-model-visualization](https://github.com/asilbek2706/OSI-model-visualization)
 <!--END_SECTION:activity-->
+
+---
+
+## Open to Collaboration
+
+- Frontend-heavy product builds
+- UI architecture and refactoring efforts
+- Practical mentorship and project-based learning collaborations
 
 ---
 
