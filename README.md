@@ -153,6 +153,43 @@
 
 ---
 
+## Chronicle Weekly Dashboard
+
+> Personalized weekly usage insights generated with `/chronicle weekly`.
+> Week: `2026-W37`
+
+- Sessions: **1**
+- Total active minutes: **1**
+- Avg session length: **1 min**
+- Active day: **2026-09-08**
+
+### Tool Usage (last 7 days)
+
+```text
+view                               10  ██████████
+report_progress                     6  ██████
+parallel_validation                 2  ██
+runtime-tools-secret_scanning       2  ██
+bash                                2  ██
+apply_patch                         2  ██
+run_setup                           2  ██
+glob                                2  ██
+```
+
+### Daily Trend (last 7 days)
+
+```text
+2026-09-08   sessions: 1   minutes: 1   ██
+```
+
+### Personalized Tips
+
+- Keep your validation habit (`parallel_validation` + secret scanning).
+- Use `rg/glob` a bit more before `view` to reduce file-open loops.
+- Set one weekly target: **20% fewer raw `view` calls** by searching first.
+
+---
+
 ## WakaTime
 
 <!--START_SECTION:waka-->
