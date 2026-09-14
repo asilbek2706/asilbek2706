@@ -1,98 +1,163 @@
 <div align="center">
 
-
 # Asilbek Karomatov
 
-### Frontend Engineer crafting polished products, scalable UI systems, and modern web experiences
-
+### Frontend Engineer building reliable, scalable, and polished web products
 
 <p>
-  <a href="https://asilbek-karomatov.dev"><img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/asilbek-karomatov-91336b33b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/asilbek2706?tab=repositories"><img src="https://img.shields.io/badge/Projects-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+  <a href="https://asilbek-karomatov.dev"><img src="https://img.shields.io/badge/Portfolio-DC2626?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/asilbek-karomatov-91336b33b"><img src="https://img.shields.io/badge/LinkedIn-EF4444?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/asilbek2706?tab=repositories"><img src="https://img.shields.io/badge/Projects-991B1B?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+  <a href="mailto:asilbekkaromatov2@gmail.com"><img src="https://img.shields.io/badge/Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
 </p>
 
-<sub>I enjoy turning product ideas into professional interfaces with strong architecture, smooth UX, and production-ready engineering standards.</sub>
+<sub>Focused on turning product ideas into production-ready frontend experiences with strong UX, clean architecture, and practical full-stack integration.</sub>
 
 </div>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/────────────────────────────────────────────────────────-DC2626?style=flat-square" alt="divider" />
+</p>
 
 ## Profile Snapshot
 
-- Building modern products with **TypeScript, React, Next.js, Angular, Node.js, Python**
-- Strong in **frontend architecture, authentication flows, responsive UI, and practical backend integration**
-- Focused on balancing **clean code, speed, UX polish, and maintainable structure**
-- Actively shipping and refining **learning-by-building repositories with production-style standards**
+- Frontend-first engineer with strong delivery across **React, Next.js, Angular, and TypeScript**
+- Experienced in building **responsive UI systems, authentication flows, and scalable feature architecture**
+- Comfortable across the stack with **Node.js, Express, PostgreSQL, and Python**
+- Consistent focus on **clean code, maintainability, performance, and user experience**
 
 ## Quick Navigation
 
 - [Core Skills](#core-skills)
 - [Featured Repositories](#featured-repositories)
-- [GitHub Graphs](#github-graphs)
+- [What I Bring](#what-i-bring)
+- [Current Focus](#current-focus)
+- [My Old Portfolio](#my-old-portfolio)
+- [GitHub Analytics](#github-analytics)
 - [Advanced Metrics](#advanced-metrics)
+- [WakaTime](#wakatime)
 - [Recent Activity](#recent-activity)
+- [Open to Collaboration](#open-to-collaboration)
 - [Contact](#contact)
 
 ---
 
 ## Core Skills
 
+### Frontend
 <p>
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Angular-1D4ED8?style=for-the-badge&logo=react&logoColor=white" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Languages-TypeScript%20%7C%20JavaScript%20%7C%20Python-1E3A8A?style=for-the-badge&logo=typescript&logoColor=white" alt="Languages" />
-  <img src="https://img.shields.io/badge/UI-Tailwind%20CSS%20%7C%20Responsive%20Design-1E40AF?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="UI" />
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20PostgreSQL-1E293B?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend" />
+  <img src="https://img.shields.io/badge/React-DC2626?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-991B1B?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Angular-EF4444?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 </p>
 
----
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-DC2626?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-991B1B?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-EF4444?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
-## Language Overview
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asilbek2706&theme=tokyonight" />
+### UI
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-DC2626?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Responsive_UI-991B1B?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive UI" />
+  <img src="https://img.shields.io/badge/Component_Design-EF4444?style=for-the-badge&logo=storybook&logoColor=white" alt="Component Design" />
+</p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-DC2626?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-991B1B?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+</p>
+
+### Database
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-EF4444?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-DC2626?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-991B1B?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
 
 ## Featured Repositories
 
-<sub>Latest active projects with practical frontend and full-stack focus.</sub>
-
 <table>
   <tr>
     <td width="50%" valign="top">
+      <p><img src="https://img.shields.io/badge/Featured-DC2626?style=flat-square" alt="Featured" /></p>
       <h3><a href="https://github.com/asilbek2706/GitZone">GitZone</a></h3>
-      <p>Git-focused platform project with modern frontend-first architecture.</p>
-      <p><strong>Stack:</strong> TypeScript, modern web tooling.</p>
+      <p>A GitHub-inspired platform built with scalable frontend and backend architecture.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-991B1B?style=flat-square" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-EF4444?style=flat-square" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Node.js-DC2626?style=flat-square" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-991B1B?style=flat-square" alt="Express" />
+        <img src="https://img.shields.io/badge/PostgreSQL-EF4444?style=flat-square" alt="PostgreSQL" />
+      </p>
+      <p><a href="https://github.com/asilbek2706/GitZone"><img src="https://img.shields.io/badge/View_Repository-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a></p>
     </td>
     <td width="50%" valign="top">
+      <p><img src="https://img.shields.io/badge/Featured-DC2626?style=flat-square" alt="Featured" /></p>
       <h3><a href="https://github.com/asilbek2706/backend-learning-project">backend-learning-project</a></h3>
-      <p>Backend practice project for API structure and service-layer thinking.</p>
-      <p><strong>Stack:</strong> JavaScript, Node.js ecosystem.</p>
+      <p>A practical backend project focused on REST APIs, services, authentication, and maintainable structure.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-991B1B?style=flat-square" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Node.js-EF4444?style=flat-square" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-DC2626?style=flat-square" alt="Express" />
+      </p>
+      <p><a href="https://github.com/asilbek2706/backend-learning-project"><img src="https://img.shields.io/badge/View_Repository-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <p><img src="https://img.shields.io/badge/Featured-DC2626?style=flat-square" alt="Featured" /></p>
       <h3><a href="https://github.com/asilbek2706/angular-unit-testing">angular-unit-testing</a></h3>
-      <p>Focused examples for building reliable Angular unit testing habits.</p>
-      <p><strong>Stack:</strong> Angular, TypeScript, testing patterns.</p>
+      <p>Practical Angular unit-testing examples for reliable components and maintainable applications.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Angular-991B1B?style=flat-square" alt="Angular" />
+        <img src="https://img.shields.io/badge/TypeScript-EF4444?style=flat-square" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Jasmine-DC2626?style=flat-square" alt="Jasmine" />
+      </p>
+      <p><a href="https://github.com/asilbek2706/angular-unit-testing"><img src="https://img.shields.io/badge/View_Repository-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a></p>
     </td>
     <td width="50%" valign="top">
+      <p><img src="https://img.shields.io/badge/Featured-DC2626?style=flat-square" alt="Featured" /></p>
       <h3><a href="https://github.com/asilbek2706/student-crash-course">student-crash-course</a></h3>
-      <p>Student-oriented crash course project with practical UI implementation.</p>
-      <p><strong>Stack:</strong> HTML, CSS, frontend fundamentals.</p>
+      <p>A student management application with practical UI and full-stack functionality.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-991B1B?style=flat-square" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-EF4444?style=flat-square" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Node.js-DC2626?style=flat-square" alt="Node.js" />
+      </p>
+      <p><a href="https://github.com/asilbek2706/student-crash-course"><img src="https://img.shields.io/badge/View_Repository-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <p><img src="https://img.shields.io/badge/Featured-DC2626?style=flat-square" alt="Featured" /></p>
       <h3><a href="https://github.com/asilbek2706/asilbek-shop">asilbek-shop</a></h3>
-      <p>Shopping experience build focused on layout quality and clean UI flow.</p>
-      <p><strong>Stack:</strong> TypeScript, responsive frontend engineering.</p>
+      <p>A responsive shopping experience focused on reusable components and polished user flows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-991B1B?style=flat-square" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-EF4444?style=flat-square" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Responsive_UI-DC2626?style=flat-square" alt="Responsive UI" />
+      </p>
+      <p><a href="https://github.com/asilbek2706/asilbek-shop"><img src="https://img.shields.io/badge/View_Repository-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a></p>
     </td>
     <td width="50%" valign="top">
+      <p><img src="https://img.shields.io/badge/Featured-DC2626?style=flat-square" alt="Featured" /></p>
       <h3><a href="https://github.com/asilbek2706/Sammi-lessons-typescript">Sammi-lessons-typescript</a></h3>
-      <p>Hands-on TypeScript lessons and exercises to strengthen core engineering skills.</p>
-      <p><strong>Stack:</strong> TypeScript, frontend practice.</p>
+      <p>Hands-on TypeScript exercises created to strengthen core development skills.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-991B1B?style=flat-square" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Frontend_Fundamentals-EF4444?style=flat-square" alt="Frontend Fundamentals" />
+      </p>
+      <p><a href="https://github.com/asilbek2706/Sammi-lessons-typescript"><img src="https://img.shields.io/badge/View_Repository-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a></p>
     </td>
   </tr>
 </table>
@@ -101,18 +166,18 @@
 
 ## What I Bring
 
-- **Product mindset** — I care about how a feature feels, not only how it works
-- **Architecture discipline** — I like scalable structures that stay maintainable as products grow
-- **UI quality** — I focus on clean visuals, consistent components, and polished interactions
-- **Execution speed** — I enjoy shipping practical features with solid engineering decisions
+- **Product-focused execution** with attention to business value and user outcomes
+- **Scalable frontend architecture** for maintainable growth over time
+- **Strong UI craftsmanship** with consistent, responsive, and accessible interfaces
+- **Reliable delivery mindset** that balances speed, quality, and long-term maintainability
 
 ---
 
 ## Current Focus
 
-- Shipping polished frontend features with accessible, component-driven UI systems
-- Building full-stack projects with production-oriented architecture and clean code standards
-- Deepening practical expertise in performance, testing, and scalable TypeScript applications
+- Building polished frontend features with reusable component systems
+- Advancing full-stack project quality with practical architecture patterns
+- Improving performance, testing discipline, and production-readiness in TypeScript ecosystems
 
 ---
 
@@ -121,19 +186,23 @@
 
 ---
 
-## GitHub Graphs
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&theme=transparent&hide_border=true&title_color=e6edf3&text_color=9aa4b2&icon_color=6366F1&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilbek2706&layout=compact&theme=transparent&hide_border=true&title_color=e6edf3&text_color=9aa4b2" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asilbek2706&show_icons=true&theme=transparent&hide_border=true&title_color=EF4444&text_color=9CA3AF&icon_color=DC2626&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilbek2706&layout=compact&theme=transparent&hide_border=true&title_color=EF4444&text_color=9CA3AF" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=asilbek2706&theme=transparent&hide_border=true&ring=6366F1&fire=F59E0B&currStreakLabel=E6EDF3&sideLabels=9AA4B2&dates=9AA4B2" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=asilbek2706&theme=transparent&hide_border=true&ring=EF4444&fire=DC2626&currStreakLabel=E6EDF3&sideLabels=9CA3AF&dates=9CA3AF" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asilbek2706&bg_color=0d1117&color=9aa4b2&line=6366f1&point=f59e0b&area=true&hide_border=true" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asilbek2706&bg_color=0d1117&color=9CA3AF&line=EF4444&point=F87171&area=true&hide_border=true" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  If the cards do not load, view your profile analytics directly: <a href="https://github.com/asilbek2706">GitHub Profile</a>
 </p>
 
 <!-- STATS:START -->
@@ -150,43 +219,6 @@
 <p align="center">
   <img src="./github-metrics.svg" alt="Advanced GitHub metrics for Asilbek Karomatov" />
 </p>
-
----
-
-## Chronicle Weekly Dashboard
-
-> Personalized weekly usage insights generated with `/chronicle weekly`.
-> Week: `2026-W37`
-
-- Sessions: **1**
-- Total active minutes: **1**
-- Avg session length: **1 min**
-- Active day: **2026-09-08**
-
-### Tool Usage (last 7 days)
-
-```text
-view                               10  ██████████
-report_progress                     6  ██████
-parallel_validation                 2  ██
-runtime-tools-secret_scanning       2  ██
-bash                                2  ██
-apply_patch                         2  ██
-run_setup                           2  ██
-glob                                2  ██
-```
-
-### Daily Trend (last 7 days)
-
-```text
-2026-09-08   sessions: 1   minutes: 1   ██
-```
-
-### Personalized Tips
-
-- Keep your validation habit (`parallel_validation` + secret scanning).
-- Use `rg/glob` a bit more before `view` to reduce file-open loops.
-- Set one weekly target: **20% fewer raw `view` calls** by searching first.
 
 ---
 
@@ -216,17 +248,17 @@ No activity tracked
 
 ## Open to Collaboration
 
-- Frontend-heavy product builds
-- UI architecture and refactoring efforts
-- Practical mentorship and project-based learning collaborations
+- Frontend-focused product development
+- UI architecture, modernization, and refactoring
+- Practical mentorship and project-based collaboration
 
 ---
 
 ## Contact
 
 <p align="left">
-  <a href="https://asilbek-karomatov.dev" aria-label="Portfolio"><img src="https://cdn.simpleicons.org/vercel/%23312E81" width="20" height="20" alt="" /></a>
-  <a href="https://linkedin.com/in/asilbek-karomatov-91336b33b" aria-label="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/%23312E81" width="20" height="20" alt="" /></a>
-  <a href="https://t.me/as1lbek_2706" aria-label="Telegram"><img src="https://cdn.simpleicons.org/telegram/%23312E81" width="20" height="20" alt="" /></a>
-  <a href="mailto:asilbekkaromatov2@gmail.com" aria-label="Email"><img src="https://cdn.simpleicons.org/gmail/%23312E81" width="20" height="20" alt="" /></a>
+  <a href="https://asilbek-karomatov.dev"><img src="https://img.shields.io/badge/Portfolio-DC2626?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/asilbek-karomatov-91336b33b"><img src="https://img.shields.io/badge/LinkedIn-EF4444?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/as1lbek_2706"><img src="https://img.shields.io/badge/Telegram-991B1B?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:asilbekkaromatov2@gmail.com"><img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
