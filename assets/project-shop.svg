@@ -1,0 +1,11 @@
+<svg width="620" height="320" viewBox="0 0 620 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="p5t p5d">
+  <title id="p5t">Asilbek shop visual</title><desc id="p5d">Shopping bag, floating product cards and checkout glow.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="620" y2="320"><stop stop-color="#0C0C0C"/><stop offset="1" stop-color="#260A0A"/></linearGradient><filter id="g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect width="620" height="320" rx="18" fill="url(#bg)" stroke="#7F1D1D"/>
+  <rect x="250" y="86" width="120" height="152" rx="16" fill="#161616" stroke="#EF4444"/>
+  <path d="M280 108C280 80 340 80 340 108" stroke="#EF4444" stroke-width="6" stroke-linecap="round"/>
+  <rect x="72" y="128" width="130" height="90" rx="12" fill="#181818" stroke="#991B1B"/>
+  <rect x="418" y="116" width="130" height="90" rx="12" fill="#181818" stroke="#991B1B"/>
+  <path d="M124 168H150" stroke="#FF3B3B" stroke-width="4"/><path d="M470 156H500" stroke="#FF3B3B" stroke-width="4"/>
+  <rect x="214" y="258" width="192" height="24" rx="12" fill="#2A1111" stroke="#EF4444" filter="url(#g)"/>
+</svg>

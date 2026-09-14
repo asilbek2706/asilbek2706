@@ -1,0 +1,27 @@
+<svg width="1280" height="78" viewBox="0 0 1280 78" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="divTitle divDesc">
+  <title id="divTitle">Animated Red Divider</title>
+  <desc id="divDesc">A thin animated divider alternating glow line, waveform and drifting particles.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" y1="39" x2="1280" y2="39" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#450A0A"/>
+      <stop offset="0.5" stop-color="#FF3B3B"/>
+      <stop offset="1" stop-color="#450A0A"/>
+      <animate attributeName="x1" values="0;200;0" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1280;1080;1280" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-300%" width="160%" height="700%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1280" height="78" fill="#080808"/>
+  <path d="M0 39H1280" stroke="url(#line)" stroke-width="2" filter="url(#glow)"/>
+  <path d="M0 53C170 35 340 70 510 53C680 36 850 70 1020 53C1105 45 1190 45 1280 53" stroke="#991B1B" stroke-width="1.5" opacity="0.9">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 53C170 35 340 70 510 53C680 36 850 70 1020 53C1105 45 1190 45 1280 53;M0 53C170 65 340 37 510 53C680 69 850 37 1020 53C1105 58 1190 58 1280 53;M0 53C170 35 340 70 510 53C680 36 850 70 1020 53C1105 45 1190 45 1280 53"/>
+  </path>
+  <g fill="#FF3B3B" opacity="0.7">
+    <circle cx="140" cy="25" r="2"><animate attributeName="cx" values="140;1180" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="520" cy="19" r="1.5"><animate attributeName="cx" values="520;40" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="960" cy="18" r="1.7"><animate attributeName="cx" values="960;200" dur="9s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>

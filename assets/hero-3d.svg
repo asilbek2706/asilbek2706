@@ -1,0 +1,118 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">Asilbek Karomatov Futuristic Hero Banner</title>
+  <desc id="heroDesc">Animated dark red futuristic workspace scene with laptop, floating tech icons, particles, and profile title.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080808"/>
+      <stop offset="0.55" stop-color="#111111"/>
+      <stop offset="1" stop-color="#450A0A"/>
+      <animate attributeName="x1" values="0;120;0" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1280;1160;1280" dur="14s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="660" y1="110" x2="990" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A1A1A"/>
+      <stop offset="1" stop-color="#0D0D0D"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="710" y1="145" x2="960" y2="145" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF1E1E" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FF3B3B" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#FF1E1E" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="420" rx="24" fill="url(#bg)"/>
+
+  <g opacity="0.22">
+    <path d="M0 310L1280 220" stroke="#7F1D1D" stroke-width="1"/>
+    <path d="M0 340L1280 250" stroke="#7F1D1D" stroke-width="1"/>
+    <path d="M0 370L1280 280" stroke="#7F1D1D" stroke-width="1"/>
+    <path d="M0 280L1280 190" stroke="#7F1D1D" stroke-width="1"/>
+    <path d="M120 70V420" stroke="#7F1D1D" stroke-width="1"/>
+    <path d="M320 55V420" stroke="#7F1D1D" stroke-width="1"/>
+    <path d="M520 40V420" stroke="#7F1D1D" stroke-width="1"/>
+    <path d="M720 25V420" stroke="#7F1D1D" stroke-width="1"/>
+    <path d="M920 10V420" stroke="#7F1D1D" stroke-width="1"/>
+    <path d="M1120 -5V420" stroke="#7F1D1D" stroke-width="1"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="10s" repeatCount="indefinite"/>
+  </g>
+
+  <g opacity="0.6">
+    <circle cx="110" cy="70" r="2" fill="#FF3B3B"><animate attributeName="cy" values="70;62;70" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="210" cy="120" r="1.8" fill="#FF3B3B"><animate attributeName="cy" values="120;112;120" dur="6.2s" repeatCount="indefinite"/></circle>
+    <circle cx="400" cy="80" r="1.6" fill="#FF3B3B"><animate attributeName="cy" values="80;74;80" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="1050" cy="95" r="2" fill="#FF3B3B"><animate attributeName="cy" values="95;88;95" dur="7.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1180" cy="140" r="1.8" fill="#FF3B3B"><animate attributeName="cy" values="140;130;140" dur="6.4s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g>
+    <text x="78" y="140" fill="#F8FAFC" font-size="54" font-family="Segoe UI, Arial, sans-serif" font-weight="700" filter="url(#softGlow)">Asilbek Karomatov</text>
+    <text x="80" y="178" fill="#FCA5A5" font-size="24" font-family="Segoe UI, Arial, sans-serif" font-weight="600">Frontend Engineer</text>
+    <text x="80" y="214" fill="#E5E7EB" font-size="20" font-family="Segoe UI, Arial, sans-serif">Building scalable UI systems</text>
+    <text x="80" y="214" fill="#E5E7EB" font-size="20" font-family="Segoe UI, Arial, sans-serif" opacity="0">Creating polished web experiences
+      <animate attributeName="opacity" values="0;0;1;1;0;0" dur="12s" repeatCount="indefinite" begin="3s"/>
+    </text>
+    <text x="80" y="214" fill="#E5E7EB" font-size="20" font-family="Segoe UI, Arial, sans-serif" opacity="0">Turning product ideas into code
+      <animate attributeName="opacity" values="0;0;1;1;0;0" dur="12s" repeatCount="indefinite" begin="7s"/>
+    </text>
+    <rect x="80" y="238" width="410" height="2" fill="#7F1D1D"/>
+    <rect x="80" y="238" width="90" height="2" fill="#FF3B3B" filter="url(#glow)">
+      <animate attributeName="x" values="80;400;80" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g transform="translate(645 85)">
+    <polygon points="30,225 345,225 320,250 5,250" fill="#0A0A0A"/>
+    <rect x="60" y="40" width="250" height="145" rx="12" fill="url(#panel)" stroke="#7F1D1D"/>
+    <rect x="78" y="58" width="214" height="107" rx="9" fill="#0B0B0B" stroke="#991B1B"/>
+    <path d="M88 80H215" stroke="#EF4444" stroke-width="2" filter="url(#glow)"/>
+    <path d="M88 100H250" stroke="#B91C1C" stroke-width="2"/>
+    <path d="M88 120H230" stroke="#EF4444" stroke-width="2"/>
+    <path d="M88 140H270" stroke="#7F1D1D" stroke-width="2"/>
+    <rect x="78" y="58" width="214" height="107" rx="9" fill="url(#scan)" opacity="0.35">
+      <animate attributeName="x" values="40;230;40" dur="5.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="20" y="185" width="330" height="42" rx="13" fill="#121212" stroke="#7F1D1D"/>
+    <rect x="140" y="198" width="90" height="16" rx="8" fill="#1F1F1F" stroke="#991B1B"/>
+  </g>
+
+  <g fill="#F8FAFC" font-size="14" font-weight="600" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(576 78)">
+      <rect x="-34" y="-19" width="68" height="38" rx="10" fill="#111111" stroke="#7F1D1D"/>
+      <text y="5">React</text>
+      <animateTransform attributeName="transform" type="translate" values="576 78;576 68;576 78" dur="5.2s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(1098 78)">
+      <rect x="-48" y="-19" width="96" height="38" rx="10" fill="#111111" stroke="#7F1D1D"/>
+      <text y="5">TypeScript</text>
+      <animateTransform attributeName="transform" type="translate" values="1098 78;1098 86;1098 78" dur="6s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(1170 228)">
+      <rect x="-37" y="-19" width="74" height="38" rx="10" fill="#111111" stroke="#7F1D1D"/>
+      <text y="5">Next.js</text>
+      <animateTransform attributeName="transform" type="translate" values="1170 228;1170 216;1170 228" dur="5.8s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(575 292)">
+      <rect x="-38" y="-19" width="76" height="38" rx="10" fill="#111111" stroke="#7F1D1D"/>
+      <text y="5">Angular</text>
+      <animateTransform attributeName="transform" type="translate" values="575 292;575 304;575 292" dur="6.8s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(1108 314)">
+      <rect x="-36" y="-19" width="72" height="38" rx="10" fill="#111111" stroke="#7F1D1D"/>
+      <text y="5">Node.js</text>
+      <animateTransform attributeName="transform" type="translate" values="1108 314;1108 303;1108 314" dur="5.4s" repeatCount="indefinite"/>
+    </g>
+    <g transform="translate(955 40)">
+      <rect x="-23" y="-19" width="46" height="38" rx="10" fill="#111111" stroke="#7F1D1D"/>
+      <text y="5">Git</text>
+      <animateTransform attributeName="transform" type="translate" values="955 40;955 49;955 40" dur="5s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>

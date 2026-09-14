@@ -1,0 +1,15 @@
+<svg width="620" height="320" viewBox="0 0 620 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="p2t p2d">
+  <title id="p2t">Backend learning project visual</title><desc id="p2d">3D server rack, API nodes, and red data streams.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="620" y2="320"><stop stop-color="#0B0B0B"/><stop offset="1" stop-color="#250A0A"/></linearGradient><filter id="g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect width="620" height="320" rx="18" fill="url(#bg)" stroke="#7F1D1D"/>
+  <rect x="90" y="70" width="180" height="190" rx="14" fill="#121212" stroke="#991B1B"/>
+  <rect x="110" y="96" width="140" height="30" rx="6" fill="#191919" stroke="#EF4444"/>
+  <rect x="110" y="138" width="140" height="30" rx="6" fill="#191919" stroke="#B91C1C"/>
+  <rect x="110" y="180" width="140" height="30" rx="6" fill="#191919" stroke="#EF4444"/>
+  <ellipse cx="420" cy="215" rx="72" ry="22" fill="#111" stroke="#EF4444"/>
+  <path d="M348 150V215C348 228 380 238 420 238C460 238 492 228 492 215V150" fill="#141414" stroke="#EF4444"/>
+  <ellipse cx="420" cy="150" rx="72" ry="22" fill="#181818" stroke="#EF4444"/>
+  <path d="M258 110C330 110 350 150 348 170" stroke="#FF3B3B" stroke-width="2" filter="url(#g)"/>
+  <path d="M258 196C320 196 344 204 348 204" stroke="#FF3B3B" stroke-width="2" filter="url(#g)"/>
+  <circle cx="300" cy="110" r="5" fill="#FF3B3B"/><circle cx="328" cy="196" r="5" fill="#FF3B3B"/>
+</svg>

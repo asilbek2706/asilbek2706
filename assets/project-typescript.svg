@@ -1,0 +1,13 @@
+<svg width="620" height="320" viewBox="0 0 620 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="p6t p6d">
+  <title id="p6t">TypeScript lessons visual</title><desc id="p6d">TypeScript cube with floating symbols.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="620" y2="320"><stop stop-color="#0C0C0C"/><stop offset="1" stop-color="#200909"/></linearGradient><filter id="g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect width="620" height="320" rx="18" fill="url(#bg)" stroke="#7F1D1D"/>
+  <path d="M310 90L400 130V220L310 260L220 220V130L310 90Z" fill="#151515" stroke="#EF4444"/>
+  <path d="M310 90V260" stroke="#7F1D1D"/>
+  <path d="M220 130L310 170L400 130" stroke="#7F1D1D"/>
+  <text x="310" y="188" text-anchor="middle" fill="#FF3B3B" font-size="56" font-family="Segoe UI, Arial" font-weight="700" filter="url(#g)">TS</text>
+  <text x="120" y="80" fill="#E5E7EB" font-size="22" font-family="Segoe UI, Arial">{ }</text>
+  <text x="490" y="96" fill="#E5E7EB" font-size="20" font-family="Segoe UI, Arial">&lt;/&gt;</text>
+  <text x="98" y="250" fill="#E5E7EB" font-size="20" font-family="Segoe UI, Arial">const</text>
+  <text x="486" y="240" fill="#E5E7EB" font-size="20" font-family="Segoe UI, Arial">type</text>
+</svg>
