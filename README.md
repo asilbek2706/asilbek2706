@@ -23,6 +23,7 @@
 - Building modern products with **TypeScript, React, Next.js, Angular, Node.js, Python**
 - Strong in **frontend architecture, authentication flows, responsive UI, and practical backend integration**
 - Focused on balancing **clean code, speed, UX polish, and maintainable structure**
+- Actively shipping and refining **learning-by-building repositories with production-style standards**
 
 ## Quick Navigation
 
@@ -55,41 +56,43 @@
 
 ## Featured Repositories
 
+<sub>Latest active projects with practical frontend and full-stack focus.</sub>
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/asilbek2706/asilbek-school-frontend">asilbek-school-frontend</a></h3>
-      <p>Production-style learning platform frontend.</p>
-      <p><strong>Stack:</strong> React, TypeScript, Vitest, Playwright.</p>
+      <h3><a href="https://github.com/asilbek2706/GitZone">GitZone</a></h3>
+      <p>Git-focused platform project with modern frontend-first architecture.</p>
+      <p><strong>Stack:</strong> TypeScript, modern web tooling.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/asilbek2706/WebSocket-lessons-nodejs">WebSocket-lessons-nodejs</a></h3>
-      <p>Real-time backend demo with WebSocket broadcast patterns.</p>
-      <p><strong>Stack:</strong> Node.js, Express, PostgreSQL, WebSocket.</p>
+      <h3><a href="https://github.com/asilbek2706/backend-learning-project">backend-learning-project</a></h3>
+      <p>Backend practice project for API structure and service-layer thinking.</p>
+      <p><strong>Stack:</strong> JavaScript, Node.js ecosystem.</p>
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/asilbek2706/angular-unit-testing">angular-unit-testing</a></h3>
+      <p>Focused examples for building reliable Angular unit testing habits.</p>
+      <p><strong>Stack:</strong> Angular, TypeScript, testing patterns.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/asilbek2706/student-crash-course">student-crash-course</a></h3>
+      <p>Student-oriented crash course project with practical UI implementation.</p>
+      <p><strong>Stack:</strong> HTML, CSS, frontend fundamentals.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/asilbek2706/asilbek-shop">asilbek-shop</a></h3>
+      <p>Shopping experience build focused on layout quality and clean UI flow.</p>
+      <p><strong>Stack:</strong> TypeScript, responsive frontend engineering.</p>
+    </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/asilbek2706/Sammi-lessons-typescript">Sammi-lessons-typescript</a></h3>
-      <p>TypeScript-focused practical exercises and patterns.</p>
-      <p><strong>Stack:</strong> TypeScript, frontend fundamentals.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/asilbek2706/NextJS-16-tutorial">NextJS-16-tutorial</a></h3>
-      <p>Modern Next.js learning project for event-oriented UX flows.</p>
-      <p><strong>Stack:</strong> Next.js, TypeScript, UI components.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/asilbek2706/asilbek-uzum-market-clone">asilbek-uzum-market-clone</a></h3>
-      <p>E-commerce style interface clone with clean layouts.</p>
-      <p><strong>Stack:</strong> TypeScript, responsive design.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/asilbek2706/Food-Lover">Food-Lover</a></h3>
-      <p>Restaurant/food showcase app with polished UI approach.</p>
-      <p><strong>Stack:</strong> HTML, CSS, JavaScript.</p>
+      <p>Hands-on TypeScript lessons and exercises to strengthen core engineering skills.</p>
+      <p><strong>Stack:</strong> TypeScript, frontend practice.</p>
     </td>
   </tr>
 </table>
