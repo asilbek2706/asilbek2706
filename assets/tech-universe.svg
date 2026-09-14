@@ -1,0 +1,71 @@
+<svg width="1280" height="520" viewBox="0 0 1280 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="techTitle techDesc">
+  <title id="techTitle">Technology Universe</title>
+  <desc id="techDesc">Animated red futuristic panels grouping frontend, styling, backend, and database tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080808"/>
+      <stop offset="1" stop-color="#170909"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="580" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#171717"/>
+      <stop offset="1" stop-color="#0D0D0D"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="520" rx="24" fill="url(#bg)"/>
+  <text x="640" y="58" text-anchor="middle" fill="#F8FAFC" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="700" filter="url(#glow)">Technology Universe</text>
+  <text x="640" y="85" text-anchor="middle" fill="#FCA5A5" font-size="16" font-family="Segoe UI, Arial, sans-serif">Frontend + Full-Stack tools arranged in layered glass panels</text>
+
+  <g opacity="0.2">
+    <path d="M40 420H1240" stroke="#7F1D1D"/>
+    <path d="M80 390H1200" stroke="#7F1D1D"/>
+    <path d="M120 360H1160" stroke="#7F1D1D"/>
+    <path d="M160 330H1120" stroke="#7F1D1D"/>
+  </g>
+
+  <g transform="translate(70 120)">
+    <rect width="550" height="170" rx="20" fill="url(#panel)" stroke="#7F1D1D"/>
+    <text x="30" y="38" fill="#FF3B3B" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Frontend</text>
+    <g fill="#E5E7EB" font-size="16" font-family="Segoe UI, Arial, sans-serif">
+      <text x="30" y="78">React</text><text x="160" y="78">Next.js</text><text x="300" y="78">Angular</text>
+      <text x="30" y="112">TypeScript</text><text x="190" y="112">JavaScript</text>
+    </g>
+    <circle cx="500" cy="34" r="6" fill="#FF3B3B" filter="url(#glow)"><animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/></circle>
+    <animateTransform attributeName="transform" type="translate" values="70 120;70 110;70 120" dur="8s" repeatCount="indefinite"/>
+  </g>
+
+  <g transform="translate(660 120)">
+    <rect width="550" height="170" rx="20" fill="url(#panel)" stroke="#7F1D1D"/>
+    <text x="30" y="38" fill="#FF3B3B" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Styling</text>
+    <g fill="#E5E7EB" font-size="16" font-family="Segoe UI, Arial, sans-serif">
+      <text x="30" y="78">Tailwind CSS</text><text x="220" y="78">SCSS</text>
+      <text x="30" y="112">Responsive Design</text><text x="300" y="112">Component Systems</text>
+    </g>
+    <circle cx="500" cy="34" r="6" fill="#FF3B3B" filter="url(#glow)"><animate attributeName="opacity" values="0.4;1;0.4" dur="3.5s" repeatCount="indefinite"/></circle>
+    <animateTransform attributeName="transform" type="translate" values="660 120;660 132;660 120" dur="8.6s" repeatCount="indefinite"/>
+  </g>
+
+  <g transform="translate(120 320)">
+    <rect width="500" height="150" rx="20" fill="url(#panel)" stroke="#7F1D1D"/>
+    <text x="30" y="36" fill="#FF3B3B" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Backend</text>
+    <g fill="#E5E7EB" font-size="16" font-family="Segoe UI, Arial, sans-serif">
+      <text x="30" y="72">Node.js</text><text x="170" y="72">Express</text><text x="300" y="72">Python</text>
+      <text x="30" y="106">REST API</text>
+    </g>
+    <animateTransform attributeName="transform" type="translate" values="120 320;120 312;120 320" dur="7.2s" repeatCount="indefinite"/>
+  </g>
+
+  <g transform="translate(660 320)">
+    <rect width="500" height="150" rx="20" fill="url(#panel)" stroke="#7F1D1D"/>
+    <text x="30" y="36" fill="#FF3B3B" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Database & Tools</text>
+    <g fill="#E5E7EB" font-size="16" font-family="Segoe UI, Arial, sans-serif">
+      <text x="30" y="72">PostgreSQL</text><text x="190" y="72">Git</text><text x="280" y="72">GitHub</text>
+      <text x="30" y="106">Docker</text><text x="170" y="106">Vite</text>
+    </g>
+    <animateTransform attributeName="transform" type="translate" values="660 320;660 332;660 320" dur="7.8s" repeatCount="indefinite"/>
+  </g>
+</svg>

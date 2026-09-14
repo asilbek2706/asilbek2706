@@ -1,0 +1,13 @@
+<svg width="620" height="320" viewBox="0 0 620 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="p1t p1d">
+  <title id="p1t">GitZone visual</title><desc id="p1d">3D git branches, repository cubes, and terminal style network lines.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="620" y2="320"><stop stop-color="#0B0B0B"/><stop offset="1" stop-color="#240909"/></linearGradient><filter id="g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect width="620" height="320" rx="18" fill="url(#bg)" stroke="#7F1D1D"/>
+  <rect x="34" y="36" width="240" height="140" rx="12" fill="#121212" stroke="#991B1B"/>
+  <path d="M52 68H220" stroke="#EF4444" stroke-width="2"/><path d="M52 90H190" stroke="#B91C1C" stroke-width="2"/>
+  <path d="M330 230L390 190L450 230L390 270Z" fill="#1F1F1F" stroke="#EF4444"/>
+  <path d="M390 190V130L450 170V230" fill="#171717" stroke="#EF4444"/>
+  <path d="M390 190L330 230V170L390 130L450 170" fill="#101010" stroke="#7F1D1D"/>
+  <path d="M270 220C310 180 350 180 390 230" stroke="#FF3B3B" stroke-width="2" filter="url(#g)"><animate attributeName="d" values="M270 220C310 180 350 180 390 230;M270 220C310 170 350 190 390 230;M270 220C310 180 350 180 390 230" dur="5s" repeatCount="indefinite"/></path>
+  <circle cx="270" cy="220" r="5" fill="#FF3B3B"/><circle cx="390" cy="230" r="5" fill="#FF3B3B"/><circle cx="500" cy="120" r="5" fill="#FF3B3B"/>
+  <path d="M390 230C430 180 460 150 500 120" stroke="#FF3B3B" stroke-width="2"/>
+</svg>

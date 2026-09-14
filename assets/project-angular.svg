@@ -1,0 +1,12 @@
+<svg width="620" height="320" viewBox="0 0 620 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="p3t p3d">
+  <title id="p3t">Angular unit testing visual</title><desc id="p3d">Angular shield with test status panels and code blocks.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="620" y2="320"><stop stop-color="#0C0C0C"/><stop offset="1" stop-color="#250A0A"/></linearGradient><filter id="g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect width="620" height="320" rx="18" fill="url(#bg)" stroke="#7F1D1D"/>
+  <path d="M310 58L414 94L398 224L310 276L222 224L206 94L310 58Z" fill="#161616" stroke="#EF4444"/>
+  <path d="M310 87L368 214H337L325 185H295L283 214H252L310 87Z" fill="#FF3B3B" filter="url(#g)"/>
+  <rect x="62" y="88" width="118" height="46" rx="10" fill="#151515" stroke="#991B1B"/>
+  <text x="121" y="117" text-anchor="middle" fill="#E5E7EB" font-size="18" font-family="Segoe UI, Arial">PASS</text>
+  <rect x="440" y="88" width="118" height="46" rx="10" fill="#151515" stroke="#991B1B"/>
+  <text x="499" y="117" text-anchor="middle" fill="#E5E7EB" font-size="18" font-family="Segoe UI, Arial">SUITE</text>
+  <path d="M120 206H500" stroke="#7F1D1D" stroke-width="2"/><path d="M150 184H470" stroke="#7F1D1D" stroke-width="2"/>
+</svg>
