@@ -53,29 +53,31 @@ $ cat asilbek.json
 
 <!-- ═══════════════ TECH ═══════════════ -->
 
-## ⚡ Tech Universe
-
-<p align="center">
-  <img src="./assets/tech-universe.svg" alt="Technology Universe" width="100%" />
-</p>
-
 <div align="center">
+  <h2>⚡ Tech Universe</h2>
 
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css&theme=dark" alt="React, Next.js, Angular, TypeScript, JavaScript, HTML, CSS" />
+  <h3>Frontend</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css" alt="Frontend Tech Stack" />
+  </p>
 
-**Styling**<br/>
-<img src="https://skillicons.dev/icons?i=tailwind,sass,figma&theme=dark" alt="Tailwind CSS, SCSS, Figma" />
+  <h3>Styling</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=tailwind,sass,figma" alt="Styling Tools" />
+  </p>
 
-**Backend**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" alt="Node.js, Express, Python" />
+  <h3>Backend</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py" alt="Backend Tools" />
+  </p>
 
-**Database & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,docker,git,github,vite,vercel,netlify&theme=dark" alt="PostgreSQL, Docker, Git, GitHub, Vite, Vercel, Netlify" />
-
+  <h3>Database & Tools</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,vite,vercel,netlify" alt="Database and Dev Tools" />
+  </p>
 </div>
 
-<br/>
+<br />
 
 <!-- ═══════════════ PROJECTS ═══════════════ -->
 
