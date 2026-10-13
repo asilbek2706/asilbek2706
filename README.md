@@ -252,7 +252,7 @@ No activity tracked
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/asilbek2706/OSI-model-visualization/pull/3) in [asilbek2706/OSI-model-visualization](https://github.com/asilbek2706/OSI-model-visualization)
+1. 🎉 Merged PR [#3](https://github.com/asilbek2706/MedVision/pull/3) in [asilbek2706/MedVision](https://github.com/asilbek2706/MedVision)
 <!--END_SECTION:activity-->
 
 </details>
