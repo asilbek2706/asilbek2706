@@ -252,7 +252,7 @@ No activity tracked
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/asilbek2706/MedVision/pull/11) in [asilbek2706/MedVision](https://github.com/asilbek2706/MedVision)
+1. 🎉 Merged PR [#14](https://github.com/asilbek2706/MedVision/pull/14) in [asilbek2706/MedVision](https://github.com/asilbek2706/MedVision)
 <!--END_SECTION:activity-->
 
 </details>
