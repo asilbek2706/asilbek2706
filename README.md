@@ -252,7 +252,7 @@ No activity tracked
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/asilbek2706/MedVision/pull/15) in [asilbek2706/MedVision](https://github.com/asilbek2706/MedVision)
+1. 🎉 Merged PR [#1](https://github.com/asilbek2706/LeetCode/pull/1) in [asilbek2706/LeetCode](https://github.com/asilbek2706/LeetCode)
 <!--END_SECTION:activity-->
 
 </details>
