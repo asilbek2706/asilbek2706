@@ -54,28 +54,14 @@ $ cat asilbek.json
 <!-- ═══════════════ TECH ═══════════════ -->
 
 <div align="center">
-  <h2>⚡ Tech Universe</h2>
-
-  <h3>Frontend</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css" alt="Frontend Tech Stack" />
-  </p>
-
-  <h3>Styling</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=tailwind,sass,figma" alt="Styling Tools" />
-  </p>
-
-  <h3>Backend</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,py" alt="Backend Tools" />
-  </p>
-
-  <h3>Database & Tools</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,vite,vercel,netlify" alt="Database and Dev Tools" />
-  </p>
+  <h2>⚡ Current Stack</h2>
+  <p>Production-focused tools I use across frontend, backend, data, and deployment.</p>
+  <img src="./assets/tech-universe.svg" alt="Current technology stack" width="100%" />
 </div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,threejs,nodejs,express,java,spring,postgres,mongodb,docker,vite,git,github" alt="React, Next.js, TypeScript, Tailwind CSS, Three.js, Node.js, Express, Java, Spring Boot, PostgreSQL, MongoDB, Docker, Vite, Git and GitHub" />
+</p>
 
 <br />
 
@@ -86,89 +72,37 @@ $ cat asilbek.json
 <table>
   <tr>
     <td width="50%" valign="top">
+      <img src="./assets/project-portfolio.svg" alt="fullstack-portfolio project visual" width="100%" />
+      <h3><a href="https://github.com/asilbek2706/fullstack-portfolio">fullstack-portfolio</a></h3>
+      <p>Full-stack personal portfolio with a React interface, authenticated content management and a Node.js API.</p>
+      <p><img src="https://img.shields.io/badge/React_19-EA580C?style=flat-square&logo=react&logoColor=white" alt="React 19" /> <img src="https://img.shields.io/badge/Vite_8-F97316?style=flat-square&logo=vite&logoColor=white" alt="Vite 8" /> <img src="https://img.shields.io/badge/Node.js-C2410C?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/MongoDB-9A3412?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /></p>
+      <a href="https://github.com/asilbek2706/fullstack-portfolio"><img src="https://img.shields.io/badge/View_Repository-EA580C?style=for-the-badge&logo=github&logoColor=white" alt="View fullstack-portfolio repository" /></a>
+    </td>
+    <td width="50%" valign="top">
       <img src="./assets/project-gitzone.svg" alt="GitZone project visual" width="100%" />
       <h3><a href="https://github.com/asilbek2706/GitZone">GitZone</a></h3>
-      <p>GitHub-inspired development platform with scalable frontend and backend architecture.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-991B1B?style=flat-square&logo=react&logoColor=white" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-EF4444?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Node.js-DC2626?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/PostgreSQL-B91C1C?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      </p>
+      <p>Independent Git hosting and developer collaboration platform with repository workflows, permissions and code review.</p>
+      <p><img src="https://img.shields.io/badge/React_19-991B1B?style=flat-square&logo=react&logoColor=white" alt="React 19" /> <img src="https://img.shields.io/badge/TypeScript-EF4444?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Express-DC2626?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/Prisma-B91C1C?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" /></p>
       <a href="https://github.com/asilbek2706/GitZone"><img src="https://img.shields.io/badge/View_Repository-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View GitZone repository" /></a>
     </td>
-    <td width="50%" valign="top">
-      <img src="./assets/project-shop.svg" alt="asilbek-shop visual" width="100%" />
-      <h3><a href="https://github.com/asilbek2706/asilbek-shop">asilbek-shop</a></h3>
-      <p>Responsive shopping experience built on reusable components and polished user flows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-991B1B?style=flat-square&logo=react&logoColor=white" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-EF4444?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Responsive_UI-DC2626?style=flat-square" alt="Responsive UI" />
-      </p>
-      <a href="https://github.com/asilbek2706/asilbek-shop"><img src="https://img.shields.io/badge/View_Repository-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View asilbek-shop repository" /></a>
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/project-student.svg" alt="student-crash-course visual" width="100%" />
-      <h3><a href="https://github.com/asilbek2706/student-crash-course">student-crash-course</a></h3>
-      <p>Student management app with a practical UI and full-stack functionality.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-991B1B?style=flat-square&logo=react&logoColor=white" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-EF4444?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Node.js-DC2626?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      </p>
-      <a href="https://github.com/asilbek2706/student-crash-course"><img src="https://img.shields.io/badge/View_Repository-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View student-crash-course repository" /></a>
+      <img src="./assets/project-medvision.svg" alt="MedVision project visual" width="100%" />
+      <h3><a href="https://github.com/asilbek2706/MedVision">MedVision</a></h3>
+      <p>Medical image segmentation workspace with algorithm comparison, visual overlays, history and evaluation metrics.</p>
+      <p><img src="https://img.shields.io/badge/Next.js_16-075985?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16" /> <img src="https://img.shields.io/badge/Spring_Boot_4-0369A1?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 4" /> <img src="https://img.shields.io/badge/OpenCV-0284C7?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/PostgreSQL-0EA5E9?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></p>
+      <a href="https://github.com/asilbek2706/MedVision"><img src="https://img.shields.io/badge/View_Repository-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="View MedVision repository" /></a>
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/project-backend.svg" alt="backend-learning-project visual" width="100%" />
-      <h3><a href="https://github.com/asilbek2706/backend-learning-project">backend-learning-project</a></h3>
-      <p>API architecture, services and maintainable server structure with Node.js and Express.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-991B1B?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Node.js-EF4444?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express-DC2626?style=flat-square&logo=express&logoColor=white" alt="Express" />
-      </p>
-      <a href="https://github.com/asilbek2706/backend-learning-project"><img src="https://img.shields.io/badge/View_Repository-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View backend-learning-project repository" /></a>
+      <img src="./assets/project-asilbek-dev.svg" alt="asilbek.dev project visual" width="100%" />
+      <h3><a href="https://github.com/asilbek2706/asilbek.dev">asilbek.dev</a></h3>
+      <p>Live personal portfolio with glassmorphism UI, 3D scenes, smooth scrolling and a protected contact experience.</p>
+      <p><img src="https://img.shields.io/badge/React_19-6B21A8?style=flat-square&logo=react&logoColor=white" alt="React 19" /> <img src="https://img.shields.io/badge/Three.js-7E22CE?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" /> <img src="https://img.shields.io/badge/Zustand-A855F7?style=flat-square" alt="Zustand" /> <img src="https://img.shields.io/badge/Vite_6-C084FC?style=flat-square&logo=vite&logoColor=111827" alt="Vite 6" /></p>
+      <a href="https://asilbek-karomatov.dev"><img src="https://img.shields.io/badge/Live_Demo-9333EA?style=for-the-badge&logo=vercel&logoColor=white" alt="Open asilbek.dev live demo" /></a>
     </td>
   </tr>
 </table>
-
-<details>
-<summary><b>🧪 Learning & Experiments</b> &nbsp;(click to expand)</summary>
-<br/>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="./assets/project-angular.svg" alt="angular-unit-testing visual" width="100%" />
-      <h3><a href="https://github.com/asilbek2706/angular-unit-testing">angular-unit-testing</a></h3>
-      <p>Practical Angular unit-testing examples for reliable components.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Angular-991B1B?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-        <img src="https://img.shields.io/badge/TypeScript-EF4444?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Jasmine-DC2626?style=flat-square&logo=jasmine&logoColor=white" alt="Jasmine" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="./assets/project-typescript.svg" alt="Sammi-lessons-typescript visual" width="100%" />
-      <h3><a href="https://github.com/asilbek2706/Sammi-lessons-typescript">Sammi-lessons-typescript</a></h3>
-      <p>Hands-on TypeScript lessons and exercises for core development skills.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-991B1B?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Fundamentals-EF4444?style=flat-square" alt="Frontend Fundamentals" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-</details>
-
-<p align="center">
-  <a href="https://github.com/asilbek2706?tab=repositories"><img src="https://img.shields.io/badge/Browse_all_30%2B_repositories-0D0D0D?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0D0D0D&color=DC2626" alt="Browse all repositories" /></a>
-</p>
-
 <br/>
 
 <!-- ═══════════════ STRENGTHS ═══════════════ -->
