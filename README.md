@@ -38,7 +38,7 @@ $ cat asilbek.json
   "name": "Asilbek Karomatov",
   "role": "Frontend Engineer",
   "stack": ["React", "Next.js", "Angular", "TypeScript"],
-  "backend": ["Node.js", "Express", "PostgreSQL", "Python"],
+  "backend": ["Node.js", "Express", "Java", "Spring Boot", "PostgreSQL", "Python"],
   "values": ["performance", "clean architecture", "UX that feels fast"],
   "location": "Uzbekistan",
   "currently": {
