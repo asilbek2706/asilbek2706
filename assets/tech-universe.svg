@@ -44,8 +44,8 @@
     <rect width="500" height="150" rx="20" fill="#121212" stroke="#7F1D1D" stroke-width="1.5"/>
     <text x="30" y="36" fill="#FF3B3B" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Backend</text>
     <g fill="#E5E7EB" font-size="16" font-family="Segoe UI, Arial, sans-serif">
-      <text x="30" y="72">Node.js</text><text x="170" y="72">Express</text><text x="300" y="72">Python</text>
-      <text x="30" y="106">REST API</text>
+      <text x="30" y="72">Node.js</text><text x="150" y="72">Express</text><text x="285" y="72">Python</text><text x="390" y="72">Java</text>
+      <text x="30" y="106">Spring Boot</text><text x="190" y="106">REST API</text>
     </g>
   </g>
 
