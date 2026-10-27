@@ -186,7 +186,7 @@ No activity tracked
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/asilbek2706/LeetCode/pull/1) in [asilbek2706/LeetCode](https://github.com/asilbek2706/LeetCode)
+1. 🎉 Merged PR [#39](https://github.com/asilbek2706/asilbek2706/pull/39) in [asilbek2706/asilbek2706](https://github.com/asilbek2706/asilbek2706)
 <!--END_SECTION:activity-->
 
 </details>
