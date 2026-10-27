@@ -1,0 +1,17 @@
+<svg width="620" height="320" viewBox="0 0 620 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">MedVision visual</title>
+  <desc id="desc">Medical image segmentation dashboard with masks and comparison panels.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="620" y2="320"><stop stop-color="#071014"/><stop offset="1" stop-color="#082F49"/></linearGradient></defs>
+  <rect width="620" height="320" rx="18" fill="url(#bg)" stroke="#38BDF8"/>
+  <rect x="34" y="34" width="552" height="252" rx="14" fill="#0B1B26" stroke="#155E75"/>
+  <text x="60" y="70" fill="#BAE6FD" font-size="20" font-family="Segoe UI, Arial" font-weight="700">MEDVISION / ANALYSIS</text>
+  <rect x="60" y="96" width="218" height="150" rx="10" fill="#111827" stroke="#0EA5E9"/>
+  <circle cx="169" cy="171" r="54" fill="#172554" stroke="#38BDF8" stroke-width="2"/>
+  <path d="M135 182C147 143 163 145 171 166C181 191 198 180 206 151M132 202C153 188 171 220 204 192" stroke="#67E8F9" stroke-width="5"/>
+  <rect x="304" y="96" width="252" height="68" rx="10" fill="#0F172A" stroke="#0E7490"/>
+  <path d="M326 139L366 123L400 137L444 112L530 128" stroke="#22D3EE" stroke-width="3"/>
+  <rect x="304" y="178" width="118" height="68" rx="10" fill="#0F172A" stroke="#0E7490"/>
+  <text x="324" y="208" fill="#7DD3FC" font-size="13" font-family="Segoe UI, Arial">DICE SCORE</text><text x="324" y="232" fill="#E0F2FE" font-size="22" font-family="Segoe UI, Arial" font-weight="700">0.94</text>
+  <rect x="438" y="178" width="118" height="68" rx="10" fill="#0F172A" stroke="#0E7490"/>
+  <text x="458" y="208" fill="#7DD3FC" font-size="13" font-family="Segoe UI, Arial">IOU SCORE</text><text x="458" y="232" fill="#E0F2FE" font-size="22" font-family="Segoe UI, Arial" font-weight="700">0.89</text>
+</svg>

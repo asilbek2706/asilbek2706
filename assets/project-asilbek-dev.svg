@@ -1,0 +1,13 @@
+<svg width="620" height="320" viewBox="0 0 620 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">asilbek.dev visual</title>
+  <desc id="desc">A cyberpunk glassmorphism portfolio interface with a 3D scene.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="620" y2="320"><stop stop-color="#0A0A0A"/><stop offset="1" stop-color="#3B0764"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect width="620" height="320" rx="18" fill="url(#bg)" stroke="#C084FC"/>
+  <path d="M0 245L140 180L260 235L390 150L620 226V320H0Z" fill="#581C87" opacity=".35"/>
+  <circle cx="468" cy="125" r="72" fill="#7E22CE" opacity=".3" filter="url(#glow)"/>
+  <path d="M407 126L468 91L529 126L468 161Z" fill="#1E1B4B" stroke="#E879F9"/><path d="M468 91V161M407 126L468 161L529 126" stroke="#E879F9"/>
+  <rect x="46" y="42" width="280" height="176" rx="14" fill="#111827" fill-opacity=".72" stroke="#A855F7"/>
+  <text x="70" y="88" fill="#F5D0FE" font-size="25" font-family="Segoe UI, Arial" font-weight="700">asilbek.dev</text>
+  <text x="70" y="119" fill="#D8B4FE" font-size="14" font-family="Segoe UI, Arial">BUILD • SHIP • EVOLVE</text>
+  <path d="M70 160H238M70 181H192" stroke="#E879F9" stroke-width="4" stroke-linecap="round"/>
+</svg>
