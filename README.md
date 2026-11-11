@@ -7,6 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1800&color=FF3B3B&center=true&vCenter=true&width=900&height=50&lines=%3E+npm+run+build+%E2%86%92+scalable+UI+systems;%3E+const+mission+%3D+'polished+web+experiences'%3B;%3E+turning+product+ideas+into+production+code;%3E+status%3A+open+to+collaboration+%E2%9C%94" alt="Typing headline" />
 </a>
 
+
 <br/>
 
 <a href="https://asilbek-karomatov.dev"><img src="https://img.shields.io/badge/Portfolio-DC2626?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
