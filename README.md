@@ -1,6 +1,7 @@
 <!-- ═══════════════ HERO ═══════════════ -->
 <div align="center">
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:0D0D0D,45:7F1D1D,100:DC2626&text=Asilbek%20Karomatov&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Frontend%20Engineer%20%E2%80%A2%20UI%20Systems%20%E2%80%A2%20Product%20Builder&descSize=18&descAlignY=60&descColor=FCA5A5" alt="Asilbek Karomatov - Frontend Engineer" width="100%" />
 
 <a href="https://github.com/asilbek2706">
